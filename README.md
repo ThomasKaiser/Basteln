@@ -1,0 +1,1 @@
+Nothing about computers, just some random personal notes wrt woodworking tries (in some strange foreign language)
