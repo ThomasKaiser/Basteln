@@ -28,6 +28,14 @@ Passt auch in das deutlich höherwertigere Makita Oberfräsenmodul 195563-0, dam
 
 ![](../media/PMFAP-Kantenfraeskorb-mit-Absaug-Adapter.jpg)
 
+Der Oberfräskorb hat an jeder Seite in 17mm Höhe ein M4-Gewinde zur Befestigung des windigen "Parallelanschlags", das hier jetzt für T-Nut-Adapter (bspw. für [Fräszirkel](../media/Kreisfraeser/README.md)) verwendet wird.
+
+![](../media/Kreisfraeser/008.jpg)
+
+In der Bodenplatte des Oberfräskorbs sind außerdem zwei M5-Gewinde, die hier zur Befestigung eines [Führungsschienenadapters](../media/Fraesschiene/README.md) verwendet werden:
+
+![](../media/Fraesschiene/016.jpg)
+
 ## Tauchsäge PPTSA 20-Li A1
 
 Die A1-Variante war ursprünglich für 159,- gelistet ist aber schon nicht mehr erhältlich. Anfang 2025 war die [C3-Nachfolgerin](https://www.lidl.de/p/parkside-performance-20-v-akku-tauchsaege-pptsa-20-li-c3-ohne-akku-und-ladegeraet/p100382688) für 89,-€ im Angebot. Importeur ist [Grizzly Tools](https://grizzlytools.shop) und IAN ist 396073\_2201 -> [Link zur Bedienungsanleitung](https://kundenservice.lidl.de/SelfServiceDE/s/global-search/%40uri#q=396073_2201).
@@ -36,7 +44,7 @@ Lieferumfang neben der Säge ist ein bereits montiertes Sägeblatt mit 42 Zähne
 
 Trotz beworbener Schnittwinkel von 1°-47° schafft mein A1-Modell keine 45° (irgendwo bei 44,x° ist Schluß) also evtl. [Vorrichtung für perfekte Gehrung bauen](https://www.youtube.com/watch?v=4WEJXS8R0Jo) und vermutlich ist das in späteren Geräterevisionen schon gefixt.
 
-Ab und an gibt es bei lidl.de ein "Parkside Performance"-Sägeblatt mit 140mm Durchmesser und 40 Zähnen mit der Bestellnummer 100368884001, das **deutlich** schärfer ist als das vormontierte (wie bei allen Billigsägen wird halt überall gespart und Austausch des Sägeblatts gegen was Gutes sollte erste Maßnahme sein). Wenn dieses "Performance"-Sägeblatt irgendwann durch ist, steht hier die Anschaffung eines/mehrerer "Bosch Expert for Wood 140 x 20" an (taugt als Web-Suchbegriff). Die haben die passenden Innen- und Außendurchmesser, kommen mit 24, 36 oder 42 Zähnen und gehen nach Abnutzung zum Nachschärf-Service. Bosch hat auch ein passendes Alu-Sägeblatt mit 50 Zähnen und 1,6mm Breite.
+Ab und an gibt es bei lidl.de ein "Parkside Performance"-Sägeblatt mit 140mm Durchmesser, 1,3mm Breite und 40 Zähnen mit der Bestellnummer 100368884001, das **deutlich** schärfer ist als das vormontierte (wie bei allen Billigsägen wird halt überall gespart und Austausch des Sägeblatts gegen was Gutes sollte erste Maßnahme sein). Wenn dieses "Performance"-Sägeblatt irgendwann durch ist, steht hier die Anschaffung eines/mehrerer "Bosch Expert for Wood 140 x 20" an (taugt als Web-Suchbegriff). Die haben die passenden Innen- und Außendurchmesser, schneiden 1,8mm breit, kommen mit 24, 36 oder 42 Zähnen und gehen nach Abnutzung zum Nachschärf-Service. Bosch hat auch ein passendes Alu-Sägeblatt mit 50 Zähnen und 1,6mm Breite und von Milwaukee gibt es ein Holz-Sägeblatt mit 1,3mm Breite und 18 Zähnen ([Artikel-Nummer 4932471310](https://www.idealo.de/preisvergleich/OffersOfProduct/200900879_-4932471310-milwaukee.html))
 
 Die beiden 70cm-Führungschienen per Verbinder zu einer _geraden_ 140er zu machen, klappt zumindest bei meinen Schienen nur auf planer Unterlage vertikal montiert, da zumindest eine Schiene nicht rechtwinklig ist:
 
@@ -48,4 +56,4 @@ Ansonsten passt die Säge auf viele zu Festool kompatible Führungsschienen ([zu
 
 Der Schienensteg der beiden 70cm-Parkside-Schienen ist nur 15,8mm breit (16mm beim Festtool-Original), d.h. wer häufig Schienen wechselt darf andauernd an der Bodenplatte der Säge nachjustieren.
 
-Schienenzwingen liegen keine bei, so gut wie alle für Festool-kompatible Schienen dürften aber passen. Youtool bspw. verkauft stinknormale Bessey GTR12 (Ganzstahl-Tischzwinge mit 120mm Länge – andere GTR-Zwingen auch mit Hebelgriff passen also auch), die Festtool-Zwingen passen bei Parkside-Schiene (ergo auch [Makita, Metabo, usw. usf.](https://www.holzwerken.net/blog/heiko-rech/schienen-adapter-saegen-was-passt-wo/)). Wenn man noch nicht "zu viele" Zwingen hat, ist evtl. das [Bessey EZR15-6SET ](https://geizhals.de/bessey-ezr15-6set-einhand-tischzwinge-a2444634.html) eine Idee: zwei 150mm-Einhandzwingen, mit denen man sowohl spannen als auch spreizen und in Führungsschienen fixieren kann.
+Schienenzwingen liegen keine bei, so gut wie alle für Festool-kompatible Schienen dürften aber passen. Youtool bspw. verkauft stinknormale Bessey GTR12 (Ganzstahl-Tischzwinge mit 120mm Länge – andere GTR-Zwingen auch mit Hebelgriff passen also auch), die Festtool-Zwingen passen bei Parkside-Schiene (ergo auch [Makita, Metabo, usw. usf.](https://archive.ph/7SN7d)). Wenn man noch nicht "zu viele" Zwingen hat, ist evtl. das [Bessey EZR15-6SET ](https://geizhals.de/bessey-ezr15-6set-einhand-tischzwinge-a2444634.html) eine Idee: zwei 150mm-Einhandzwingen, mit denen man sowohl spannen als auch spreizen und in Führungsschienen fixieren kann.
