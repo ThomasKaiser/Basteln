@@ -2,7 +2,9 @@
 
 Um den [Führungsschienenadapter für Oberfräse](../Fraesschiene/README.md) zu bauen bestand die Notwendigkeit (Halb-)kreise zu fräsen. Und das mit kleinem Durchmesser.
 
-[Idee von Holzwerken](https://www.youtube.com/watch?v=sUedGF2HmPA), die das mit ordentlichem Oberfräskorb auf HPL-Platte gelöst haben.
+[Idee von Holzwerken](https://www.youtube.com/watch?v=sUedGF2HmPA), die das mit ordentlichem Oberfräskorb auf HPL-Platte gelöst haben:
+
+![](001.png)
 
 Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nut-Adaptern auf einem Abschnitt IKEA-Küchentür zu bauen, weil Material glatt beschichtet, was sicher von Vorteil ist.
 
