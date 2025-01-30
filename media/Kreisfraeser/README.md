@@ -1,6 +1,6 @@
 # Fräszirkel für kleine Durchmesser
 
-Um den [Führungsschienenadapter für Oberfräse](../Fraesschiene/README.md) zu bauen bestand die Notwendigkeit (Halb-)kreise zu fräsen. Und das mit kleinem Durchmesser
+Um den [Führungsschienenadapter für Oberfräse](../Fraesschiene/README.md) zu bauen bestand die Notwendigkeit (Halb-)kreise zu fräsen. Und das mit kleinem Durchmesser.
 
 [Idee von Holzwerken](https://www.youtube.com/watch?v=sUedGF2HmPA), die das mit ordentlichem Oberfräskorb auf HPL-Platte gelöst haben.
 
@@ -14,17 +14,17 @@ Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nu
 
 ![](003.jpg)
 
-#### Dann "Schiene" ablängen und halbieren, es sollen zwei Fräszirkel werden: ein handlicher für Durchmesser von 22mm bis 90mm und der andere Abschnitt dann für Durchmesser bis 35cm:
+#### Dann "Schiene" ablängen und zweiteilen, denn es sollen zwei Fräszirkel werden: ein handlicher für Durchmesser von 22 - 90 mm und der andere Abschnitt dann für Durchmesser bis 35cm:
 
 ![](004.jpg)
 
 ![](005.jpg)
 
-#### Versuch, ein 20mm breites "Langloch" zu erstellen. "Überraschung": MDF ist das falsche Material dafür, denn wenn man punktuell Druck ausübt, zerbröselt das Ganze. Ist halt doch mehr Pappe als Holz.
+#### Versuch, ein 20mm breites "Langloch" zu erstellen. "Überraschung": MDF ist das falsche Material dafür, denn wenn man punktuell Druck ausübt, zerbröselt das Ganze. Ist halt doch eher Pappe als Holz.
 
 ![](006.jpg)
 
-#### Falls der längere Abschnitt doch noch gebraucht werden sollte, kann man das mit 19er-Alu-T-Nut-Schienen noch retten.
+#### Falls der längere Abschnitt doch noch gebraucht werden sollte, kann man das mit gefrästem Falz und 19er-Alu-T-Nut-Schiene an jeder Seite noch retten.
 
 ![](007.jpg)
 
@@ -32,7 +32,7 @@ Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nu
 
 ![](008.jpg)
 
-#### Schrankrückwandreste mit Fräse auf passendes Niveau bringen und dann mit Resten von Alu-L-Profil zusammenpappen (2K-Kleber):
+#### 1,5mm Falz in Schrankrückwandrest fräsen und dann mit Resten von Alu-L-Profil zusammenpappen (mit 2K-Kleber – Profil natürlich 1,5mm stark):
 
 ![](009.jpg)
 
@@ -56,7 +56,7 @@ Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nu
 
 ![](014.jpg)
 
-#### Nun für den [Führungsschienenadapter](../Fraesschiene/README.md) Vertiefung mit 123mm Durchmesser fräsen als auch Mittelloch und Teile des Randes:
+#### Nun als zweite Übung für den [Führungsschienenadapter](../Fraesschiene/README.md) Vertiefung mit 123mm Durchmesser fräsen als auch Mittelloch und Teile des Randes:
 
 ![](015.jpg)
 
@@ -70,5 +70,5 @@ Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nu
 
   * MDF eher Scheize für sowas, weil zerbröselt leicht
   * Die Variante mit der IKEA-Tür dumm gewesen, da die Plattenstärke von 16mm natürlich bei der Frästiefe fehlt. Unter Beibehaltung der gebauten T-Nut-Adapter könnte das auf 8mm verbessert werden: Langlöcher vertikal ins Alu, 19er-Alu-T-Nuten mit 2K-Kleber an 8mm HPL-Platte ankleben
-  * Die kwb-Bohrlehre ist nicht geeignet für wirklich präzise Positionierung. Besser mit dem Ding Schablone vorbohren, dann Schablone exakt auf Werkstück positioniern und die eigentlichen Löcher bohren
-  * Fräsen ohne vernünftige Absaugung und Atemschutz gefährded die Gesundheit. Dringender Handlungsbedarf
+  * Die kwb-Bohrlehre ist nicht geeignet für wirklich präzise Positionierung. Besser mit dem Ding Schablone vorbohren, dann Schablone exakt auf Werkstück positionieren und die eigentlichen Löcher bohren
+  * Fräsen ohne vernünftige Absaugung und Atemschutz gefährdet die Gesundheit. Dringender Handlungsbedarf

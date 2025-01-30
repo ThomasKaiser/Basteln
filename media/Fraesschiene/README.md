@@ -26,7 +26,7 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 ![](007.jpg)
 
-#### Erstmal [Fräszirkel](../Kreisfraeser/README.md) bauen, um runde Vertiefung in das Material zu fräsen, da ansonsten die Dicke der Vorrichtung 19mm betragen hätte, die bei der Frästiefe dann gefehlt hätten.
+#### Erstmal [Fräszirkel](../Kreisfraeser/README.md) bauen, um runde Vertiefung in das Material zu fräsen, da ansonsten die Dicke der Vorrichtung 19mm betragen hätte, die bei der Frästiefe dann natürlich fehlt.
 
 ![](008.jpg)
 
@@ -38,11 +38,11 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 ![](010.jpg)
 
-#### Dann mit Kreissäge den Rest auf Format bringen:
+#### Mittelloch fräsen und dann mit Tauchsäge den Rest auf Format bringen:
 
 ![](011.jpg)
 
-#### Noch Mittelloch gefräst und drei 8mm Löcher für Hammerkopfschrauben gebohrt, damit der Adapter sicher in der Zubehör-T-Nut geführt werden kann:
+#### Noch drei 8mm Löcher für Hammerkopfschrauben gebohrt, damit der Adapter sicher in der Zubehör-T-Nut geführt werden kann:
 
 ![](012.jpg)
 
@@ -58,7 +58,7 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 ![](016.jpg)
 
-#### "Überraschung"! Vorher nicht die Position der Löcher geprüft, eines ist jetzt dort, wo nur noch 2mm Materialstärke über der Schiene übrig sind, von daher kann man hier Senkkopfschraube vergessen und stattdessen kommt ne 8er rein zum Positionieren rein:
+#### "Überraschung"! Vorher nicht die Position der Löcher geprüft, eines ist jetzt dort, wo nur noch 2mm Materialstärke über der Schiene übrig sind, von daher kann man hier Senkkopfschraube vergessen und stattdessen kommt ne 8er nur zum Positionieren rein:
 
 ![](017.jpg)
 
@@ -66,9 +66,13 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 ![](018.jpg)
 
-#### Passt, dass eine der M5-Schrauben eigentlich "lose" ist, stellt sich nicht als Problem heraus, denn so wie die Fräse geführt wird, wird eh Druck von oben aufgebaut:
+#### Passt perfekt:
 
 ![](019.jpg)
+
+#### Da noch paar cm Alu-L-Profil rumlagen, einfach das Problem mit dem einen M5-Gewinde im Boden umgangen und eines der seitlichen M4-Gewinde stattdessen genutzt. Und noch einen Handknauf für bessere Führung des Gespanns draufgeschraubt/-klebt:
+
+![](020.jpg)
 
 #### Mit Holzresten und Hammerkopfschrauben in der Zubehör-T-Nut können auch prima Anschläge realisiert werden, so dass die Länge der gefrästen Nuten auch wiederholgenau wird.
 
@@ -76,4 +80,4 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
   * Position der Bohrungen vorher prüfen, in dem Fall hätte es geholfen, den Fräskorb bisschen gedreht zu positionieren oder die ganze Vorrichtung 10mm breiter auszulegen, dann wären beide M5-Schrauben in 8mm Material gelandet und der Fräskorb hätte vollwertig mit der Vorrichtung verschraubt werden können
   * Falls sich die Vorrichtung als zu wenig präzise herausstellen sollte oder mit der Zeit mehr Spiel bekommt, evtl. Makita Oberfräsenmodul 195563-0 nebst passendem Führungsschienenadapter kaufen (kostet natürlich mehr als das ganze Set von Parkside)
-  * Fräsen ohne vernünftige Absaugung und Atemschutz gefährded die Gesundheit. Dringender Handlungsbedarf
+  * Fräsen ohne vernünftige Absaugung und Atemschutz gefährdet die Gesundheit. Dringender Handlungsbedarf

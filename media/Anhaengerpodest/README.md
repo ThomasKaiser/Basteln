@@ -3,7 +3,7 @@
 Idee: ein schwenkbares Podest, das ermöglicht, den [Radanhänger](../Anhaengerdeckel/README.md) platzsparend im Treppenhaus an der Wand zu verstauen und bei Bedarf so einzuschwenken, dass der Anhänger bequem auf 
 das Podest gesenkt bzw. davon wieder runter geschwenkt werden kann.
 
-Material für lau von [Treibgut (die retten tonnenweise Material und was sie nicht mehr brauchen, kann unsereins dann noch retten)](http://treibgut-lager.de).
+Holz für lau von [Treibgut (die retten tonnenweise Material, und was sie nicht mehr brauchen, kann unsereins dann noch retten)](http://treibgut-lager.de). Die Rolle/Lenkrollen stammen aus dem letzten Jahrhundert, lagen im Schrank und hatten noch D-Mark-Preise draufkleben.
 
 #### Balken von Nägeln/Klammern befreien und dann mit Elektrohobel drüber:
 
@@ -23,7 +23,7 @@ Material für lau von [Treibgut (die retten tonnenweise Material und was sie nic
 
 ![](006.jpg)
 
-#### Parallel für den Deckel zwei Reststücke mittels [Dübelleiste](https://www.wolfcraft.com/products/wolfcraft/de/EUR/Produkte/Vorsatz%C2%ADgeräte-für-Maschinen/Bohrhilfen/Dübelleiste/p/P_4650) und Holzdübeln verleimt:
+#### Parallel für den Deckel zwei Reststücke Tischlerplatte mittels [Dübelleiste](https://www.wolfcraft.com/products/wolfcraft/de/EUR/Produkte/Vorsatz%C2%ADgeräte-für-Maschinen/Bohrhilfen/Dübelleiste/p/P_4650) und Holzdübeln verleimt:
 
 ![](007.jpg)
 
@@ -59,7 +59,7 @@ Material für lau von [Treibgut (die retten tonnenweise Material und was sie nic
 
 ![](019.jpg)
 
-#### Mittels Taschenlöchern verschrauben:
+#### Mittels Taschenlöchern Deckel und Rahmen verschrauben:
 
 ![](020.jpg)
 
