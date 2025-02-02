@@ -22,7 +22,7 @@ Da kein passender Fräskorb im Einsatz, die Idee, das aus Rest-Stücken mit T-Nu
 
 ![](005.jpg)
 
-#### Versuch, ein 20mm breites "Langloch" zu erstellen. "Überraschung": MDF ist das falsche Material dafür, denn wenn man punktuell Druck ausübt, zerbröselt das Ganze. Ist halt doch eher Pappe als Holz.
+#### Versuch, ein 20mm breites "Langloch" zu erstellen. "Überraschung": MDF ist das falsche Material dafür, denn wenn man punktuell Druck ausübt, zerbröselt das Ganze. Ist halt doch mehr Pappe als Holz.
 
 ![](006.jpg)
 

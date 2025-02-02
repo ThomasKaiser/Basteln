@@ -16,6 +16,8 @@ Es gibt bei Geräten, die sich durchsetzen (also nicht völlig Scheize sind, sic
 
 Wo Bewertungen verfügbar sind, immer studieren und besser Finger weg von allem, was weniger als 4,0 oder gar 4,5 hat. Wobei viele Bewertungen kompletter Müll sind. Bspw. 5 Sterne für "Schnelle Lieferung, gerne wieder. Noch nicht getestet." und am anderen Ende der Skala 1-Sterne-Bewertungen à la "Ich bin zu faul, die Bedienungsanleitung zu lesen und zu doof, die Funktionsweise des Elektrowerkzeugs zu verstehen. Geht direkt zurück!1!!11!!"
 
+Retouren, die nach Prüfung für gut befunden wurden, gehen wohl über Kanäle wie [Retoura](https://shop.retoura.de/Elektrowerkzeuge::PARKSIDE-PERFORMANCE::PARKSIDE) wieder in den Handel. Dort können die Preise aber gerne mal höher als bei lidl.de sein.
+
 ## Multifunktionsfräse PMFAP 20-Li A1
 
 Kommt mit 3 Körben (Ober-, Kanten-, Winkelfräse), zwei Spannzangen (6 und 8 mm), Maulschlüssel, 6 Fräsern, "Parallelanschlag", Plastikkoffer und Bedienungsanleitung. Importeur ist [Kompernass](https://www.kompernass.com), die IAN ist 445966\_2307. Damit kommt man dann auch an die Anleitung als PDF unterhalb [kundenservice.lidl.de](https://kundenservice.lidl.de/SelfServiceDE/s/global-search/%40uri#q=445966_2307). Akku(s) und Ladegerät wie bei allen Geräten der Serie nicht dabei.
@@ -46,9 +48,13 @@ Trotz beworbener Schnittwinkel von 1°-47° schafft mein A1-Modell keine 45° (i
 
 Ab und an gibt es bei lidl.de ein "Parkside Performance"-Sägeblatt mit 140mm Durchmesser, 1,3mm Breite und 40 Zähnen mit der Bestellnummer 100368884001, das **deutlich** schärfer ist als das vormontierte (wie bei allen Billigsägen wird halt überall gespart und Austausch des Sägeblatts gegen was Gutes sollte erste Maßnahme sein).
 
-Update: Mit der IAN 426012_2301 vertreibt die Schwarz-Gruppe von Zeit zu Zeit insgesamt vier passende "Performance"-Sägeblätter, siehe bspw. https://shop.retoura.de/PARKSIDE-PERFORMANCE-Kreissaegeblatt-140-mm-B-Ware
+Update: Mit der IAN 426012_2301 vertreibt die Schwarz-Gruppe von Zeit zu Zeit insgesamt vier passende "Performance"-Sägeblätter, siehe bspw. [https://shop.retoura.de/PARKSIDE-PERFORMANCE-Kreissaegeblatt-140-mm-B-Ware](https://shop.retoura.de/PARKSIDE-PERFORMANCE-Kreissaegeblatt-140-mm-B-Ware).
 
-Wenn dieses "Performance"-Sägeblatt irgendwann durch ist, steht hier die Anschaffung eines/mehrerer "Bosch Expert for Wood 140 x 20" an (taugt als Web-Suchbegriff). Die haben die passenden Innen- und Außendurchmesser, schneiden 1,8mm breit, kommen mit 24, 36 oder 42 Zähnen und gehen nach Abnutzung zum Nachschärf-Service. Bosch hat auch ein passendes Alu-Sägeblatt mit 50 Zähnen und 1,6mm Breite und von Milwaukee gibt es ein Holz-Sägeblatt mit 1,3mm Breite und 18 Zähnen ([Artikel-Nummer 4932471310](https://www.idealo.de/preisvergleich/OffersOfProduct/200900879_-4932471310-milwaukee.html))
+Völlig vergessen: Juli 2024 das Performance-Sägeblatt mit 20 Zähnen (Bestellnummer 100368884002) für vermutlich reduzierte 5€ gekauft. Das mit 40 Zähnen hat im März 2024 15€ gekostet:
+
+![](../media/100368884001-100368884002-Saegeblaetter.jpg)
+
+Wenn diese "Performance"-Sägeblätter irgendwann durch sind, steht hier die Anschaffung eines/mehrerer "Bosch Expert for Wood 140 x 20" an (taugt als Web-Suchbegriff). Die haben die passenden Innen- und Außendurchmesser, schneiden 1,8mm breit, kommen mit 24, 36 oder 42 Zähnen und gehen nach Abnutzung zum Nachschärf-Service. Bosch hat auch ein passendes Alu-Sägeblatt mit 50 Zähnen und 1,6mm Breite und von Milwaukee gibt es ein Holz-Sägeblatt mit 1,3mm Breite und 18 Zähnen ([Artikel-Nummer 4932471310](https://www.idealo.de/preisvergleich/OffersOfProduct/200900879_-4932471310-milwaukee.html))
 
 Die beiden 70cm-Führungschienen per Verbinder zu einer _geraden_ 140er zu machen, klappt zumindest bei meinen Schienen nur auf planer Unterlage vertikal montiert, da zumindest eine Schiene nicht rechtwinklig ist:
 

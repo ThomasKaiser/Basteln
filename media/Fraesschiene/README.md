@@ -30,7 +30,7 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 ![](007.jpg)
 
-#### Erstmal [Fräszirkel](../Kreisfraeser/README.md) bauen, um runde Vertiefung in das Material zu fräsen, da ansonsten die Dicke der Vorrichtung 19mm betragen hätte, die bei der Frästiefe dann natürlich fehlt.
+#### Erstmal [Fräszirkel](../Kreisfraeser/README.md) bauen, um kreisrund 11mm tief in das Material zu fräsen, da ansonsten die Dicke der Vorrichtung 19mm betragen hätte, die bei der Frästiefe dann natürlich fehlt.
 
 ![](008.jpg)
 
