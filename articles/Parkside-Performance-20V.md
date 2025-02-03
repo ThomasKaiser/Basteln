@@ -67,3 +67,13 @@ Ansonsten passt die Säge auf viele zu Festool kompatible Führungsschienen ([zu
 Der Schienensteg der beiden 70cm-Parkside-Schienen ist nur 15,8mm breit (16mm beim Festtool-Original), d.h. wer häufig Schienen wechselt darf andauernd an der Bodenplatte der Säge nachjustieren.
 
 Schienenzwingen liegen keine bei, so gut wie alle für Festool-kompatible Schienen dürften aber passen. Youtool bspw. verkauft stinknormale Bessey GTR12 (Ganzstahl-Tischzwinge mit 120mm Länge – andere GTR-Zwingen auch mit Hebelgriff passen also auch), die Festtool-Zwingen passen bei Parkside-Schiene (ergo auch [Makita, Metabo, usw. usf.](https://archive.ph/7SN7d)). Wenn man noch nicht "zu viele" Zwingen hat, ist evtl. das [Bessey EZR15-6SET ](https://geizhals.de/bessey-ezr15-6set-einhand-tischzwinge-a2444634.html) eine Idee: zwei 150mm-Einhandzwingen, mit denen man sowohl spannen als auch spreizen und in Führungsschienen als auch T-Nuten fixieren kann (siehe [hier](../media/Anhaengerpodest/012.jpg) für Beispiel).
+
+## Werkstattsauger PPWD 30 B2
+
+Natürlich kein Akku-Tool aber notwendig, denn der vormals im Einsatz befindliche [20V-Akkusauger PWDA 20-Li A2](https://www.lidl.de/p/parkside-20-v-akku-nass-und-trockensauger-pwda-20-li-a2-ohne-akku-und-ladegeraet/p100345284) hat einfach nicht die nötige Leistung, um an Feinstaub erzeugendem Werkzeug betrieben zu werden.
+
+Hersteller ist Grizzly Tools, ebendort auch [Verbrauchsmaterial und Ersatzteile](https://grizzlytools.shop/search/?qs=PPWD), IAN ist die 465676\_2404 und hier der [Link zum Manual](https://manuals.sit-connect.com/public/articlemanual/f44c6445-daf3-45c3-a647-9d7c052162d5.pdf).
+
+Das A1-Vorgängermodell gab es 2024 für 249,-€ ([diverse Rezensionen bspw. auf YouTube](https://www.youtube.com/results?search_query=PPWD+30)). Fiel robust aus aber die Kopplung mit Akkuwerkzeugen bzw. Parkside-Akkus eher bekloppt. Die B2-Version für 199,-€ bringt jetzt einen BT-Sender für den Saugschlauch mit, was für Akku-Werkzeuge egal welchen Herstellers perfekt ist.
+
+Auf dem Ding sollen die stapelbaren Parkside-Sortiment-Boxen arretiert werden können, die demnächst drastisch reduziert wieder erhältlich sind ([Box L für 8€](https://www.lidl.de/p/parkside-sortimentsbox-l-kombinier-und-stapelbar/p100368823), [Box M für 5€](https://www.lidl.de/p/parkside-sortimentsbox-m-kombinier-und-stapelbar/p100368835)). Diese Boxen haben die selbe Grundfläche wie das Bosch L-Boxx-System [sind aber nicht wirklich kompatibel dazu](https://youtu.be/Y-IU3M3cTYc?feature=shared&t=610).

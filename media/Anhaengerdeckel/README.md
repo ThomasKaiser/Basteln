@@ -8,7 +8,7 @@ Daher Idee: Als an und für sich wenig sinniges Projekt einen abschließbaren De
 
 Grundidee: Aus Regal- und Schrankrückwandresten und Aluprofilen einen Korpus bauen, der als "Scharnier" die Überstände des hinteren unteren Metallrohrs des Hängers nutzt. Vorne kommt ein Vorhängeschloß dran und fertig.
 
-#### Alte Billy-Regalwand und Aluprofilreste von Küchenrenovierung nebenan scheinen von der Breite zu passen:
+#### Alte Billy-Regalrückwand und Aluprofilreste von Küchenrenovierung nebenan scheinen von der Breite zu passen:
 
 ![](001.jpg)
 
@@ -354,4 +354,5 @@ Grundidee: Aus Regal- und Schrankrückwandresten und Aluprofilen einen Korpus ba
   * "eigentlich rechtwinklig" muß nicht wirklich rechtwinklig sein
   * zweimal nachmessen bringt nix, wenn man nicht drauf achtet, von wo aus man gemessen hat (Ober- oder Unterseite bspw.)
   * Wenn man mit [Dübelleiste](https://www.wolfcraft.com/products/wolfcraft/de/EUR/Produkte/Vorsatz%C2%ADgeräte-für-Maschinen/Bohrhilfen/Dübelleiste/p/P_4650) werkelt, horizontal bohren und nicht vertikal von oben
+  * Wechsel von Trennscheibe zu Sägeblatt in der Flex ([siehe hier](https://github.com/ThomasKaiser/Basteln/blob/main/media/Kreisfraeser/010.jpg)) bringt massive Verbesserungen mit Alu: wird geschnitten und nicht geschmolzen
   * Handwerkzeuge sind geil! Vor allem im Winter im 8° kalten Keller.
