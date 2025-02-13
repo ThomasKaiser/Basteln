@@ -80,6 +80,8 @@ Nach Begutachtung/Ausmessen der Abstände braucht es 6,5mm und zwei mal 6mm. Nur
 
 #### Mit Holzresten und Hammerkopfschrauben in der Zubehör-T-Nut können auch prima Anschläge realisiert werden, so dass die Länge der gefrästen Nuten auch wiederholgenau wird.
 
+![](../Klappschiene/006.jpg)
+
 #### Lernerfolge:
 
   * Position der Bohrungen vorher prüfen, in dem Fall hätte es geholfen, den Fräskorb bisschen gedreht zu positionieren oder die ganze Vorrichtung 10mm breiter auszulegen, dann wären beide M5-Schrauben in 8mm Material gelandet und der Fräskorb hätte nur von unten mit der Vorrichtung verschraubt werden können

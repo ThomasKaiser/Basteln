@@ -1,10 +1,10 @@
-# Führunggschiene in exakt und wegklappbar
+# Führungsschiene in exakt und wegklappbar
 
-Idee wie üblich bei [Peter Millard](https://www.youtube.com/watch?v=sHj5G6t1qvY) geklaut. 
+Idee wie üblich bei [Peter Millard](https://www.youtube.com/watch?v=sHj5G6t1qvY) geklaut. Warum das mit klappbarer Schiene und vor allem fixem Anschlag so wichtig ist, bei [Guido Henn](https://www.youtube.com/watch?v=EbhWwJawMe0)
 
 ![](001.png)
 
-Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste das Vorderteil umgedreht gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht.
+Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste Peter's Vorderteil "falsch herum"" gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht. Daher sind diese Teile 13mm stark, damit das 12mm-Brettchen keinen Reibungswiderstand hat.
 
 Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treibgut-lager.de/).
 
@@ -66,7 +66,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](019.jpg)
 
-#### 1,5 mm Material auf einem Teil abnehmen:
+#### 1,5 mm Material wegfräsen auf 12 cm:
 
 ![](021.jpg)
 
