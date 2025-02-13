@@ -8,7 +8,7 @@ Daher Idee: Als an und für sich wenig sinniges Projekt einen abschließbaren De
 
 Grundidee: Aus Regal- und Schrankrückwandresten und Aluprofilen einen Korpus bauen, der als "Scharnier" die Überstände des hinteren unteren Metallrohrs des Hängers nutzt. Vorne kommt ein Vorhängeschloß dran und fertig.
 
-#### Alte Billy-Regalrückwand und Aluprofilreste von Küchenrenovierung nebenan scheinen von der Breite zu passen:
+#### Alte Billy-Regalrückwand und Abschnitte von "Vigda"-Vorhangschienen scheinen von der Breite zu passen:
 
 ![](001.jpg)
 

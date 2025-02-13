@@ -10,7 +10,13 @@ Nachstehend paar Notizen Stand Jan. 2025 (die natürlich automatisch mit der Zei
 
 Es gibt bei Geräten, die sich durchsetzen (also nicht völlig Scheize sind, sich ausreichend verkaufen und nicht zu viele Rücksendungen generieren) üblicherweise zig Iterationen, die man am Namen erkennt. Produktlebenszyklus startet als A1, dann üblicherweise B2, C3, D4 und so weiter. Es tauchen vereinzelt aber auch D3-Varianten und sowas auf – aber keine Ahnung, was das bedeutet.
 
-Üblicherweise startet ein neues Produkt (also die A1-Variante) mit einem hohen Preis, dann guckt Lidl, wie sich das entwickelt, senkt ein- oder mehrmalig im Rahmen von Rabattaktionen den Preis (bspw. von 119,- auf 79,- oder 59,-) und oft genug wird aus einem früheren Aktionspreis der neue Normalpreis. Bspw. war die "40V Säbelsäge PPSSA 40-Li A1" initial für 119,- zu haben, im Rahmen einer Rabatt-Aktion im August 2024 für 79,99€ erhältlich und der "Normalpreis" Anfang 2025 ist 59,-€. Das wirft auch ein Licht auf die Margen, die Lidl/Parkside trotz der niedrigen Preise immer noch einfährt (und welch lächerlicher Anteil am Gesamtpreis bei den [wirklichen Herstellern in China](https://www.youtube.com/watch?v=biZu45aIb2c) noch ankommt).
+Üblicherweise startet ein neues Produkt (also die A1-Variante) mit einem hohen Preis, dann guckt Lidl, wie sich das entwickelt, senkt ein- oder mehrmalig im Rahmen von Rabattaktionen den Preis (bspw. von 119,- auf 79,- oder 59,-) und oft genug wird aus einem früheren Aktionspreis der neue Normalpreis. Bspw. war die "40V Säbelsäge PPSSA 40-Li A1" initial für 119,- zu haben, im Rahmen einer Rabatt-Aktion im August 2024 für 79,99€ erhältlich, der "Normalpreis" Anfang 2025 war 59,-€ und im Februar nun 99 Cent teurer 59,99€ und das angeblich um 25% reduziert von 79,99€.
+
+Oder beispielsweise der Werkstattsauger PPWD 30 B2. Am 1. 2. 2025 für 199,-€ (Normalpreis) bestellt und 10 Tage später 70,-€ teurer (ebenfalls Normalpreis):
+
+![](../media/generic/PPWD-30-b2-preise-februar-2025.png)
+
+Das wirft auch ein Licht auf die Margen, die Lidl/Parkside trotz der niedrigen Preise immer noch einfährt (und welch lächerlicher Anteil am Gesamtpreis bei den [wirklichen Herstellern in China](https://www.youtube.com/watch?v=biZu45aIb2c) noch ankommt).
 
 40V-Geräte sind Teil des 20V-Systems (das zu keinem Akku-System anderer Hersteller kompatibel ist), hier müssen dann einfach immer zwei Akkus ins/ans Gerät gesteckt werden.
 
@@ -28,7 +34,7 @@ Passt auch in das deutlich höherwertigere Makita Oberfräsenmodul 195563-0, dam
 
 [1/4"-Spannzange (6,35 mm) aus China](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099550332274&sku_id=17592358904798) passt wunderbar. Der Durchmesser der Auflage des Parkside-Oberfräskorbs ist 122,2 mm, der Kantenfräskorb bringt es auf 90x90 mm aber die Position der Bohrlöcher erschwert das Bauen von Universal-Jigs wie bspw. [diesem hier](https://www.youtube.com/watch?v=NndFGhc4_Ng):
 
-![](../media/PMFAP-Kantenfraeskorb-mit-Absaug-Adapter.jpg)
+![](../media/generic/PMFAP-Kantenfraeskorb-mit-Absaug-Adapter.jpg)
 
 Der Oberfräskorb hat an jeder Seite in 17mm Höhe ein M4-Gewinde zur Befestigung des windigen "Parallelanschlags", das hier jetzt für T-Nut-Adapter (bspw. für [Fräszirkel](../media/Kreisfraeser/README.md)) verwendet wird.
 
@@ -52,13 +58,13 @@ Update: Mit der IAN 426012_2301 vertreibt die Schwarz-Gruppe von Zeit zu Zeit in
 
 Völlig vergessen: Juli 2024 das Performance-Sägeblatt mit 20 Zähnen (Bestellnummer 100368884002) für vermutlich reduzierte 5€ gekauft. Das mit 40 Zähnen hat im März 2024 15€ gekostet:
 
-![](../media/100368884001-100368884002-Saegeblaetter.jpg)
+![](../media/generic/100368884001-100368884002-Saegeblaetter.jpg)
 
 Wenn diese "Performance"-Sägeblätter irgendwann durch sind, steht hier die Anschaffung eines/mehrerer "Bosch Expert for Wood 140 x 20" an (taugt als Web-Suchbegriff). Die haben die passenden Innen- und Außendurchmesser, schneiden 1,8mm breit, kommen mit 24, 36 oder 42 Zähnen und gehen nach Abnutzung zum Nachschärf-Service. Bosch hat auch ein passendes Alu-Sägeblatt mit 50 Zähnen und 1,6mm Breite und von Milwaukee gibt es ein Holz-Sägeblatt mit 1,3mm Breite und 18 Zähnen ([Artikel-Nummer 4932471310](https://www.idealo.de/preisvergleich/OffersOfProduct/200900879_-4932471310-milwaukee.html))
 
 Die beiden 70cm-Führungschienen per Verbinder zu einer _geraden_ 140er zu machen, klappt zumindest bei meinen Schienen nur auf planer Unterlage vertikal montiert, da zumindest eine Schiene nicht rechtwinklig ist:
 
-![](../media/PPTSA-Schiene-nicht-rechtwinklig.jpg)
+![](../media/generic/PPTSA-Schiene-nicht-rechtwinklig.jpg)
 
 Sieht Scheize aus aber funktioniert klaglos.
 
@@ -72,8 +78,12 @@ Schienenzwingen liegen keine bei, so gut wie alle für Festool-kompatible Schien
 
 Natürlich kein Akku-Tool aber notwendig, denn der vormals im Einsatz befindliche [20V-Akkusauger PWDA 20-Li A2](https://www.lidl.de/p/parkside-20-v-akku-nass-und-trockensauger-pwda-20-li-a2-ohne-akku-und-ladegeraet/p100345284) hat einfach nicht die nötige Leistung, um an Feinstaub erzeugendem Werkzeug betrieben zu werden.
 
-Hersteller ist Grizzly Tools, ebendort auch [Verbrauchsmaterial und Ersatzteile](https://grizzlytools.shop/search/?qs=PPWD), IAN ist die 465676\_2404 und hier der [Link zum Manual](https://manuals.sit-connect.com/public/articlemanual/f44c6445-daf3-45c3-a647-9d7c052162d5.pdf).
+Hersteller ist Grizzly Tools, ebendort auch [Verbrauchsmaterial und Ersatzteile](https://grizzlytools.shop/search/?qs=PPWD) ([woanders aber oft günstiger](https://www.staubsaugermanufaktur.de/advanced_search_result.php?keywords=PPWD)), IAN ist die 465676\_2404 und hier der [Link zum Manual](https://manuals.sit-connect.com/public/articlemanual/f44c6445-daf3-45c3-a647-9d7c052162d5.pdf). Als Filtertüten gibt es das 4er-Set "PPVFT 30 A1" (Staubklasse H, Feb. 2025 für 13,-€) oder "PVFT 30 A1" meist im 10er-Pack.
 
-Das A1-Vorgängermodell gab es 2024 für 249,-€ ([diverse Rezensionen bspw. auf YouTube](https://www.youtube.com/results?search_query=PPWD+30)). Fiel robust aus aber die Kopplung mit Akkuwerkzeugen bzw. Parkside-Akkus eher bekloppt. Die B2-Version für 199,-€ bringt jetzt einen BT-Sender für den Saugschlauch mit, was für Akku-Werkzeuge egal welchen Herstellers perfekt ist.
+Das A1-Vorgängermodell gab es 2024 für 249,-€ ([diverse Rezensionen bspw. auf YouTube](https://www.youtube.com/results?search_query=PPWD+30)). Staubklasse H, fiel robust aus aber die Kopplung mit Akkuwerkzeugen bzw. Parkside-Akkus eher bekloppt. Die B2-Version bringt jetzt einen BT-Sender für den Saugschlauch mit, was für Akku-Werkzeuge egal welchen Herstellers perfekt ist.
 
-Auf dem Ding sollen die stapelbaren Parkside-Sortiment-Boxen arretiert werden können, die demnächst drastisch reduziert wieder erhältlich sind ([Box L für 8€](https://www.lidl.de/p/parkside-sortimentsbox-l-kombinier-und-stapelbar/p100368823), [Box M für 5€](https://www.lidl.de/p/parkside-sortimentsbox-m-kombinier-und-stapelbar/p100368835)). Diese Boxen haben die selbe Grundfläche wie das Bosch L-Boxx-System [sind aber nicht wirklich kompatibel dazu](https://youtu.be/Y-IU3M3cTYc?feature=shared&t=610).
+Auf dem Ding sollen die stapelbaren Parkside-Sortiment-Boxen arretiert werden können, die Feb. 2025 drastisch reduziert erhältlich waren ([Box L für 8€](https://www.lidl.de/p/parkside-sortimentsbox-l-kombinier-und-stapelbar/p100368823), [Box M für 5€](https://www.lidl.de/p/parkside-sortimentsbox-m-kombinier-und-stapelbar/p100368835)). Diese Boxen haben die selbe Grundfläche wie das Bosch L-Boxx-System [sind aber nicht wirklich kompatibel dazu](https://youtu.be/Y-IU3M3cTYc?feature=shared&t=610).
+
+
+
+Außendurchmesser Saugschlauch 57,5cm, innen 52,8
