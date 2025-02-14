@@ -1,10 +1,10 @@
 # Führungsschiene in exakt und wegklappbar
 
-Idee wie üblich bei [Peter Millard](https://www.youtube.com/watch?v=sHj5G6t1qvY) geklaut. Warum das mit klappbarer Schiene und vor allem fixem Anschlag so wichtig ist, bei [Guido Henn](https://www.youtube.com/watch?v=EbhWwJawMe0)
+Idee wie üblich bei [Peter Millard](https://www.youtube.com/watch?v=sHj5G6t1qvY) geklaut. Warum das mit klappbarer Schiene und vor allem flexiblem Anschlag so wichtig ist, bei [Guido Henn](https://www.youtube.com/watch?v=EbhWwJawMe0).
 
 ![](001.png)
 
-Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste Peter's Vorderteil "falsch herum"" gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht. Daher sind diese Teile 13mm stark, damit das 12mm-Brettchen keinen Reibungswiderstand hat.
+Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste Peters Vorderteil "falsch herum"" gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht. Daher sind diese Teile 13mm stark, damit das 12mm-Brettchen keinen Reibungswiderstand hat.
 
 Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treibgut-lager.de/).
 
@@ -58,7 +58,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](017.jpg)
 
-#### Aus 5 Hartholzkeilen und Reststück Schreibtischschubladenseitenteil Scharnierhalterung für das schienenseitige Brettchen zusammenleimen:
+#### Aus 5 Hartholzkeilen und Reststück Schreibtischschubladenseitenteil Scharnierhalterung für das höhenverstellbare Brettchen zusammenleimen:
 
 ![](018.jpg)
 
