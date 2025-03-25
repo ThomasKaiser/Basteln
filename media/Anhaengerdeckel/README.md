@@ -24,7 +24,7 @@ Grundidee: Aus Regal- und Schrankrückwandresten und Aluprofilen einen Korpus ba
 
 ![](005.jpg)
 
-#### Aluprofile mit Trennschleifer auf gleiche Länge bringen:
+#### Vorhangschienen mit Trennschleifer auf gleiche Länge bringen:
 
 ![](006.jpg)
 

@@ -4,7 +4,7 @@ Idee wie üblich bei [Peter Millard](https://www.youtube.com/watch?v=sHj5G6t1qvY
 
 ![](001.png)
 
-Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste Peters Vorderteil "falsch herum"" gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht. Daher sind diese Teile 13mm stark, damit das 12mm-Brettchen keinen Reibungswiderstand hat.
+Hier bestand aber die Herausforderung 80cm-Führungsschiene an 75cm Tischtiefe zu betreiben ergo musste Peters Vorderteil "falsch herum" gebaut werden. Das verstellbare Brettchen ist innen und nicht außen angebracht. Daher sind die Außenteile 13mm stark, damit sich das 12mm-Brettchen dazwischen auf und ab bewegen kann.
 
 Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treibgut-lager.de/).
 
@@ -42,7 +42,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](012.jpg)
 
-#### Nut für Hammerkopfschraube fräsen, Schraube einkleben, Langloch machen:
+#### Nut für Hammerkopfschraube fräsen, Schraube einkleben, Langloch fräsen:
 
 ![](014.jpg)
 
@@ -70,7 +70,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](021.jpg)
 
-#### Das Ganze wird ein 12mm breites Leistchen, in das zwei Gewinde für Madenschrauben geschnitten werden, die in die Zubehör-T-Nut-Schiene geschoben wird. 
+#### Das Ganze wird ein 12mm breites Leistchen, in das zwei Gewinde für Madenschrauben geschnitten werden, das in die Zubehör-T-Nut-Schiene geschoben wird. 
 
 ![](022.jpg)
 
