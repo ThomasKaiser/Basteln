@@ -6,7 +6,7 @@ Das kleine Vorbild im Vordergrund und dahinter der Nachbau:
 
 Februar 2025 einen Werkstattsauger PPWD 30 B2 für 199,-€ geschossen stand dann die Installation eines Zyklon-Vorabscheiders an.
 
-Die übliche Variante ist die, den Zyklon mit einem Stahlfaß zu kombinieren und es gibt [haufenweise Videos, wie lustig das ist, wenn das Faß durch Unterdruck implodiert](https://www.youtube.com/watch?v=ozTCsfFssBc&t=552s).
+Die übliche Variante ist die, den Zyklon mit einem Stahlfaß zu kombinieren und es gibt [haufenweise Videos, wie lustig das ist, wenn das Faß durch Unterdruck zerstört wird](https://www.youtube.com/watch?v=ozTCsfFssBc&t=552s).
 
 Also Holzkiste drunter statt Faß. Und Doppelzyklon weil effizienter und auch mehr feineres Zeugs abscheidend:
 
@@ -18,11 +18,11 @@ Teileliste:
   * [Zyklon-Schlauchset von Staubsauger-Manufaktur](https://www.staubsaugermanufaktur.de/Schlaeuche/Fuer-Zyklon-Abscheider/Gewebeschlauch-Set-fuer-alle-Industriesauger-58mm-und-Zyklon-Abscheider-50mm-Anschluss::51558.html)
   * [Dichtungsband](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099632426312&sku_id=17592645636693)
   * [10 justierbare Kistenschnallen](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099592108905&sku_id=17592504192957)
-  * Das ganze Holz von [Treibgut](http://treibgut-lager.de)
+  * Das ganze Holz Kellerfunde oder für lau von [Treibgut](http://treibgut-lager.de)
   
 #### Herausforderung: klickbar
 
-Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, die auf den Staubsauger oder ein Rollbrett gesetzt und arretiert werden können. Daher wird das mit Holz und Resten eines Alu-L-Profils nachgebaut, damit die Kiste sicher fixiert werden kann:
+Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, die auf den Staubsauger oder ein Rollbrett oder aufeinander gesetzt und arretiert werden können. Daher wird das mit Holz und Resten eines Alu-L-Profils nachgebaut, damit die Kiste sicher fixiert werden kann:
 
 ![](018.jpg)
 
@@ -34,7 +34,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](004.jpg)
 
-#### Rundum an den Boden 10mm starke Brettchen anleimen
+#### Rundum an den Boden unten 10mm starke Brettchen anleimen
 
 ![](005.jpg)
 
@@ -58,7 +58,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](014.jpg)
 
-#### Mittels Opferholz und paar Zwingen dann in 45° ablängen:
+#### Mittels Opferholz, Winkeln und paar Zwingen dann in 45° ablängen:
 
 ![](015.jpg)
 
@@ -82,9 +82,11 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](022.jpg)
 
+#### Langloch auf der anderen Seite fräsen:
+
 ![](023.jpg)
 
-#### Weil irgendwer an dem Brett Kreisfräsen geübt hat, in den Boden außen eine 7mm tiefe Nut fräsen, in die dann der Korpus eingeleimt wird:
+#### Weil irgendwer an dem Brett Kreisfräsen geübt hat, in den Boden außen einen 7mm tiefen Falz fräsen, in den dann der Korpus eingeleimt wird:
 
 ![](013.jpg)
 
@@ -106,15 +108,13 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 #### Passt:
 
-![](030.jpg)
-
 ![](031.jpg)
+
+![](030.jpg)
 
 #### Plexiglas mit 2K-Kleber fixiert, Brettchen mit Holzleim:
 
 ![](032.jpg)
-
-![](036.jpg)
 
 #### 0,5mm Überstand korrigieren:
 
@@ -126,7 +126,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](035.jpg)
 
-#### In den Deckel wird eine 3mm-Vertiefung für den Zyklon gefräst und anschl. in mehreren Tiefenschritten die Öffnung:
+#### In den Deckel wird eine 3mm-Vertiefung für den Zyklonrand gefräst und anschl. in mehreren Tiefenschritten die eigentliche Öffnung:
 
 ![](037.jpg)
 
@@ -136,7 +136,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](040.jpg)
 
-#### Da der Kistenbauer kreativ (bzw. dumm) war und der Korpus bisschen breiter und tiefer ausfiel als geplant, muß nun an den Deckel ringsrum Holz angeleimt werden, nur um kurz danach fast vollständig mit dem Bündigfräser wieder abgetragen zu werden, damit Deckel und Korpus exakt abschließen:
+#### Da der Kistenbauer kreativ (bzw. dumm) war und der Korpus bisschen breiter und tiefer ausfällt als geplant, muß nun an den Deckel ringsrum Holz angeleimt werden, nur um kurz danach fast vollständig mit dem Bündigfräser wieder abgetragen zu werden, damit Deckel und Korpus exakt abschließen (sonst wird es nix mit den Kistenschnallen):
 
 ![](041.jpg)
 
@@ -146,7 +146,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](047.jpg)
 
-#### Dann vertikal mit Bündigfräser Deckel auf Korpusformat bringen:
+#### Dann vertikal mit Bündigfräser Deckel exakt auf Korpusformat bringen:
 
 ![](048.jpg)
 
@@ -154,11 +154,11 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](050.jpg)
 
-#### In den Deckel außen 1,5mm tiefe Nut fräsen, in die dann Dichtungsband geklebt wird:
+#### In die Innenseite des Deckels außen 1,5mm tiefen Falz fräsen, in den dann Dichtungsband geklebt wird:
 
 ![](052.jpg)
 
-#### Dichtungsband in der Küche verklebt, weil die Kellertemperatur (10°C) laut Anleitung zu niedrig ist:
+#### Dichtungsband in der Küche verklebt, weil die Kellertemperatur (10°C) laut Beipackzettel zu niedrig ist:
 
 ![](055.jpg)
 
@@ -171,8 +171,6 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 ![](056.jpg)
 
 ![](057.jpg)
-
-![](058.jpg)
 
 ![](059.jpg)
 
@@ -198,7 +196,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](064.jpg)
 
-#### Eigentlich sollte das Ganze filigraner werden und die Innenteile ausgefräst werden aber erstmal Schnauze voll von Staub:
+#### Eigentlich sollte das Ganze filigraner und die Innenteile ausgefräst werden aber erstmal Schnauze voll von Staub:
 
 ![](065.jpg)
 
@@ -214,7 +212,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](072.jpg)
 
-#### Eigentlich Blödsinn, das Ding zu lackieren aber da parallel an der Truhe gearbeitet, einfach zwei Lagen Lack drauf:
+#### Eigentlich Blödsinn, das Ding zu lackieren aber da parallel an der Truhe gearbeitet zwei Lagen Lack drauf:
 
 ![](076.jpg)
 
