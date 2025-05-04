@@ -113,3 +113,16 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 #### Erster Schnitt: Werkstück mit Bankhaken positioniert und Winkel exakt 90°:
 
 ![](033.jpg)
+
+#### Neue 120cm-Schiene von KPXIN endlich per Eisenbahn angereist und Klappvorrichtung auf Längsseite umgerüstet:
+
+![](034.jpg)
+
+#### Dann eine Runde blöd schauen, weil die Schiene Makita-kompatibel ist so dass keine meiner Tauchsägen und auch der [Oberfräsadapter](../Fraesschiene/README.md) nicht passen:
+
+![](035.jpg)
+
+#### Für 18€ nochmal die gelbe Schiene geschossen. Ist zwar eigentlich zu lang (dauernd Deckenlampe im Weg) aber was soll's:
+
+![](036.jpg)
+

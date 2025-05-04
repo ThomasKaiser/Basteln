@@ -158,7 +158,7 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](052.jpg)
 
-#### Dichtungsband in der Küche verklebt, weil die Kellertemperatur (10°C) laut Beipackzettel zu niedrig ist:
+#### Dichtungsband in der Küche verklebt, weil die Kellertemperatur mitten im Winter (10°C) laut Beipackzettel zu niedrig ist:
 
 ![](055.jpg)
 
@@ -226,7 +226,14 @@ Lidl läßt von Conmetall Meister sog. "Sortimentsboxen" aus China importieren, 
 
 ![](080.jpg)
 
-#### Zyklon (jetzt mit Kabel-/Schlauch-"Ordnung") trifft [Truhe](../Truhe/README.md).
+#### Zyklon (jetzt mit Kabel-/Schlauch-"Ordnung") trifft [Truhe](../Sitztruhe/README.md).
 
 ![](081.jpg)
 
+#### Nach Wochen erste echte Bewährungsprobe: im Keller schimmeligen/losen Putz und nen Kubikmeter Spinnenweben entfernen. Letztere sind leicht, daher landen sie im zweiten Zyklon. Und das schön komprimiert:
+
+![](082.jpg)
+
+#### Alles, was schwerer ist, landet in der Kiste. Die Verwirbelung sorgt für ein interessantes Innenleben:
+
+![](083.jpg)

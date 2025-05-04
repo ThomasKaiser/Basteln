@@ -162,7 +162,7 @@ Zuletzt bei der Tochter vom Enkel kaputtgespielt worden. Truhe rumgetragen und p
 
 ![](047.jpg)
 
-#### Ging so lala mit der El Cheapo kwb-Bohrlehre das jeweils unterste Bohrloch im 45°-Winkel zu senken:
+#### Ging so lala mit der billigen kwb-Bohrlehre, das jeweils unterste Bohrloch im 45°-Winkel zu senken:
 
 ![](048.jpg)
 
@@ -182,7 +182,7 @@ Zuletzt bei der Tochter vom Enkel kaputtgespielt worden. Truhe rumgetragen und p
 
 ![](050.jpg)
 
-#### Da es im Keller zu kalt für Lackieren ist, Umzug in die Wohnung. Erste Schicht Vorstreichfarbe aus dem letzten Jahrhundert drauf und in Folge ähnlich alten schwarzen Lack für Deckel, Truhenrand und innen:
+#### Da es im Keller trotz Frühling noch zu kalt für Lackieren ist, Umzug in die Wohnung. Erste Schicht Vorstreichfarbe aus dem letzten Jahrhundert drauf und in Folge ähnlich alten schwarzen Lack für Deckel, Truhenrand und innen:
 
 ![](054.jpg)
 
@@ -222,7 +222,7 @@ Zuletzt bei der Tochter vom Enkel kaputtgespielt worden. Truhe rumgetragen und p
 
 ![](063.jpg)
 
-#### Dann Polstervlies spannen/tackern:
+#### Dann Polstervlies aufkleben/spannen/tackern:
 
 ![](065.jpg)
 
@@ -278,7 +278,7 @@ Zuletzt bei der Tochter vom Enkel kaputtgespielt worden. Truhe rumgetragen und p
 
 ![](077.jpg)
 
-#### So wie im Vordergrund hätten die Dinger werden sollen aber natürlich symetrisch. Doch egal, Lernerfolg mitgenommen, dass sich kleine Toleranzen bei kleinen Maßen groß auswirken:
+#### So wie das im Vordergrund hätten die Dinger alle werden sollen aber natürlich symetrisch. Doch egal, Lernerfolg mitgenommen, dass sich kleine Toleranzen bei kleinen Maßen groß auswirken:
 
 ![](078.jpg)
 
@@ -298,6 +298,6 @@ Zuletzt bei der Tochter vom Enkel kaputtgespielt worden. Truhe rumgetragen und p
 
 ![](082.jpg)
 
-#### Finalmente fertig. Dunkler Bezug sicherlich nicht doof, wenn viel drauf gesessen wird aber das Resultat mit dem schwarzen Rand gefällt nicht wirklich. Nur aktuell keine Lust mehr auf Lackieren, also bleibt es jetzt erstmal so:
+#### Finalmente fertig. Dunkler Bezug sicherlich nicht doof, wenn viel drauf gesessen wird, aber das Resultat mit dem schwarzen Rand gefällt nicht wirklich. Nur aktuell keine Lust mehr auf Lackieren, also bleibt es jetzt erstmal so:
 
 ![](081.jpg)
