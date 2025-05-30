@@ -30,11 +30,11 @@ Diese Sortimentsboxen sind billigst gemacht, waren Frühjahr 2025 im Angebot und
 
 ![](006.jpg)
 
-#### Lektion gelernt, der zweite Einsatz wird komplett aus 6mm Sperrholz gebaut (dünnster Fräser hier 6mm) und Falze/Nuten sorgen dafür, dass beim Leimen weniger verrutscht:
+#### Lektion gelernt: der zweite Einsatz wird komplett aus 6mm Sperrholz gebaut (dünnster Fräser hier 6mm) und Falze/Nuten sorgen dafür, dass beim Leimen weniger verrutscht:
 
 ![](007.jpg)
 
-#### Mit dem Schienenadapter wird präzise 1,5mm tief in den Boden gefräst:
+#### Mit dem Schienenadapter wird präzise 1,5mm tief in den Boden und partiell in die Seitenteile gefräst:
 
 ![](008.jpg)
 
@@ -42,7 +42,7 @@ Diese Sortimentsboxen sind billigst gemacht, waren Frühjahr 2025 im Angebot und
 
 ![](009.jpg)
 
-#### Grifföffnung in Mittenteil fräsen:
+#### Grifföffnung in Mittelteil fräsen:
 
 ![](010.jpg)
 
@@ -66,7 +66,7 @@ Diese Sortimentsboxen sind billigst gemacht, waren Frühjahr 2025 im Angebot und
 
 ![](016.jpg)
 
-#### Am Folgetag mit Hobel und Schleifer aus eckig rund gemacht:
+#### Am Folgetag mit Handhobel und Schleifer aus eckig rund gemacht:
 
 ![](017.jpg)
 
@@ -74,7 +74,7 @@ Diese Sortimentsboxen sind billigst gemacht, waren Frühjahr 2025 im Angebot und
 
 ![](018.jpg)
 
-#### Der Einsatz für die Schleifgeräte wurde mit Schaumstoff ausgekleidet:
+#### Der Einsatz für die Schleifgeräte wurde mit Schaumstoff ausgekleidet (Verpackungsmaterial von Sägeschiene):
 
 ![](019.jpg)
 

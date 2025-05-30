@@ -122,7 +122,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](035.jpg)
 
-#### Für 18€ nochmal die gelbe Schiene geschossen. Ist zwar eigentlich zu lang (dauernd Deckenlampe im Weg) aber was soll's:
+#### Für 18€ zweite gelbe 80cm-Schiene geschossen. Beide kombiniert sind eigentlich zu lang (dauernd Deckenlampe im Weg) aber was soll's:
 
 ![](036.jpg)
 
