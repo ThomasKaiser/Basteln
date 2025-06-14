@@ -1,10 +1,10 @@
 # Poolhäuschen
 
-Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhäuschen abreißen und neues bauen, das leiseren Pumpbetrieb ermöglicht, haltbar(er) ist, Platz für  Rasenmäher und Pool-Putzroboter bietet und nicht so Scheize aussieht:
+Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhäuschen abreißen und neues bauen, das leiseren Pumpbetrieb ermöglicht, haltbar(er) ist, zusätzlich Platz für  Rasenmäher und Pool-Putzroboter bietet und nicht so Scheize aussieht wie das alte:
 
 ![](089.jpg)
 
-#### Vorgänger beherbergt Pumpe und mit Sand gefüllte Filtertonne, ist laut und kurz vorm Auseinanderfallen:
+#### Vorgänger beherbergte Pumpe und mit Sand gefüllte Filtertonne, ist laut und kurz vorm Auseinanderfallen:
 
 ![](001.jpg)
 
@@ -76,9 +76,9 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](037.jpg)
 
-#### Folie auf die Unterseite, Dämmung rein, dann Folie auf die Oberseite:
-
 ![](038.jpg)
+
+#### Folie auf die Unterseite, Dämmung rein, dann Folie auf die Oberseite:
 
 ![](039.jpg)
 
@@ -99,7 +99,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](044.jpg)
 
-#### Temporär Querlatten draufschrauben, um das Setup per Plane über Nacht wetterfest zu bekommen:
+#### Andere Wand erstmal ohne OSB aufstellen (Tür muß noch gesetzt werden), temporär Querlatten draufschrauben, um das Setup per Plane über Nacht wetterfest zu bekommen:
 
 ![](045.jpg)
 
@@ -163,7 +163,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](072.jpg)
 
-#### Bei der Außenwand geht es nicht weiter, da hier nur in die vertikalen Latten geschraubt werden kann und dafür mindestens 22cm hohe Bretter nötig sind, die wir nicht mehr haben:
+#### Bei dieser Außenwand geht es nicht weiter, da mangels OSB unter der Membran nur in die vertikalen Latten geschraubt werden kann und dafür mindestens 22cm hohe Bretter nötig sind, die wir nicht haben:
 
 ![](075.jpg)
 
@@ -171,7 +171,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](076.jpg)
 
-#### Am Vorabend der Rückfahrt nochmal Holz kaufen und flott Dach auf die Hütte. Konterlattung und Lattung planen, anzeichnen, sägen, vorbohren, draufschrauben, dann die hübschesten PVC-Panels, die lieferbar waren oben drauf:
+#### Am Vorabend der Rückfahrt nochmal Holz kaufen und flott Dach auf die Hütte. Konterlattung und Lattung planen, anzeichnen, sägen, vorbohren, draufschrauben, dann die hübschesten PVC-Panels, die irgendwo noch auftreibbar waren, oben drauf:
 
 ![](079.jpg)
 
@@ -194,4 +194,3 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 ![](087.jpg)
 
 ![](088.jpg)
-
