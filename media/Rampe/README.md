@@ -1,12 +1,12 @@
 # Rampe
 
-Aufgabenstellung, Gerüstbretter, die für dies und das noch intakt gebraucht werden, irgendwie in eine Art Rampe umzufunktionieren, da viel schweres Zeugs demnächst transportiert werden muß und generell Rasenmäher und Gartenwagen streßfreier über die Treppe kommen sollten. Ausgangsbasis war ein schiefes Brett mit den Maßen 28x195x2500mm.
+Aufgabenstellung, Gerüstbretter, die für dies und das noch intakt gebraucht werden, irgendwie in eine Art Rampe umzufunktionieren, da viel schweres Zeugs demnächst transportiert werden muß und generell Rasenmäher und Gartenwagen streßfreier über die Stufen kommen sollten. Ausgangsbasis war ein schiefes Brett mit den Maßen 28x195x2500mm und ein 7x7x71cm-Balken, der zwengs Faulheit die Breite der ganzen Konstruktion bestimmte.
 
 ![](017.jpg)
 
-Die Gerüstbretter haben zwei 20mm-Löcher an jedem Ende, also gilt es, die zu nutzen, um das Ganze "steckbar" zu machen. Ergo nen Meter 18mm-Rundholz gekauft, das achtmal mit der Oberfräse abgerundet und dann mit Handsäge auf Maß gebracht wird, um später in 18mm-Bohrlöchern eingeleimt zu werden.
+Die Gerüstbretter haben zwei 20mm-Löcher an jedem Ende, also gilt es, die zu nutzen, um das Ganze "steckbar" zu machen. Also nen Meter 18mm-Rundholz gekauft, das achtmal mit der Oberfräse abgerundet und dann mit Handsäge auf Maß gebracht wird, um später in 18mm-Bohrlöchern eingeleimt zu werden.
 
-#### Rundholz abrunden:
+#### Rundholz peu à peu abrunden und ablängen:
 
 ![](001.jpg)
 
