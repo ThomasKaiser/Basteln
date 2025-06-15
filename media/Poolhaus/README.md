@@ -1,10 +1,10 @@
 # Poolhäuschen
 
-Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhäuschen abreißen und neues bauen, das leiseren Pumpbetrieb ermöglicht, haltbar(er) ist, zusätzlich Platz für  Rasenmäher und Pool-Putzroboter bietet und nicht so Scheize aussieht wie das alte:
+Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhäuschen abreißen und neues bauen, das leiseren Pumpbetrieb ermöglicht, haltbar(er) ist, zusätzlich Platz für Rasenmäher und Pool-Putzroboter bietet und nicht so Scheize aussieht wie das alte:
 
 ![](089.jpg)
 
-#### Vorgänger beherbergte Pumpe und mit Sand gefüllte Filtertonne, ist laut und kurz vorm Auseinanderfallen:
+#### Das alte Häuschen enthielt Pumpe, mit Sand gefüllte Filtertonne und Elektrik, ist laut und kurz vorm Auseinanderfallen:
 
 ![](001.jpg)
 
@@ -12,7 +12,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](003.jpg)
 
-#### Abriß und das angeschimmelte Holz zum Wertstoffhof
+#### Abriß und das angeschimmelte Holz ab zum Wertstoffhof
 
 ![](004.jpg)
 
@@ -20,7 +20,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](078.jpg)
 
-#### Der Starkregenschutz in Form eines künstlichen Hügelchens hat offenbar nicht funktionert: Bodenplatte komplett verfault:
+#### Der Starkregenschutz in Form eines künstlichen Hügelchens hat offensichtlich nicht funktionert: Bodenplatte komplett verfault:
 
 ![](005.jpg)
 
@@ -36,7 +36,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](013.jpg)
 
-#### Herumliegenden Bewehrungstahl anspitzen und durch Löcher in der Böschungsmauer in Lehmboden rammen:
+#### Herumliegenden Bewehrungstahl anspitzen und durch Löcher in der Böschungsmauer in Lehmboden hauen:
 
 ![](016.jpg)
 
@@ -56,7 +56,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](022.jpg)
 
-#### Betonfundament folgt, erstmal Rampen bauen, damit die sieben Schubkarrenladungen von der Einfahrt ca. 100 Meter entfernt und 15 Höhenmeter tiefer unfallfrei ankommen:
+#### Betonfundament folgt, erstmal Rampen bauen, damit die sieben Schubkarrenladungen von der Einfahrt ca. 100 Meter entfernt und 10 Höhenmeter tiefer unfallfrei ankommen:
 
 ![](033.jpg)
 
@@ -68,11 +68,11 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](035.jpg)
 
-#### Schnelles Nebenprojekt: Aus den Schalungsbrettern tragbare Kästen für Schraubzwingen bauen, die an die Wand gehängt als auch herumgetragen werden können:
+#### Schnelles Nebenprojekt: Aus den Schalungsbrettern und [den Resten vom Rampenrundholz](https://github.com/ThomasKaiser/Basteln/blob/main/media/Rampe/README.md#rundholz-peu-à-peu-abrunden-und-ablängen) zwei Kästen zur Aufhängung von Schraubzwingen bauen, die an die Wand gehängt als auch bequem herumgetragen werden können:
 
 ![](036.jpg)
 
-#### Nun endlich mit der Hütte selbst anfangen, Boden mit Überblattungen zusammenstecken, verschrauben, auf sechs passend abgelängte Balkenschuhe setzen und im Fundament mit 2K-Zeugs verankern:
+#### Nun endlich mit der Hütte selbst anfangen, für Boden Überblattungen mit Tauchsäge und Stechbeitel anfertigen, alles zusammenstecken, verschrauben, auf sechs passend abgelängte Balkenschuhe setzen und im Fundament mit 2K-Zeugs verankern:
 
 ![](037.jpg)
 
@@ -105,7 +105,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](046.jpg)
 
-#### Seitenwände bauen, aufstellen und innere OSB-Wandverkleidung fast finalisieren.
+#### Seitenwände bauen, aufstellen und innere OSB-Wandverkleidung bis auf an Decke grenzende Platten finalisieren.
 
 ![](047.jpg)
 
@@ -119,7 +119,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](053.jpg)
 
-#### Nun OSB-Puzzle für den Rest der Innenseiten, um Abfall zu vermeiden:
+#### Nun OSB-Abschnitt-Puzzle für den Rest der Innenseiten, um Abfall zu vermeiden:
 
 ![](054.jpg)
 
@@ -131,27 +131,27 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](059.jpg)
 
-#### Dachdetails (nur oberhalb der Grundfläche kommt Dämmung ins Dach):
+#### Dachdetails (nur oberhalb des Innenraums kommt Dämmung ins Dach):
 
 ![](060.jpg)
 
-#### Dämmung anbringen, dann außen auf zwei Seiten OSB drauf (an einer Seite wieder großes OSB-Puzzle, um keine neuen Platten mehr kaufen zu müssen)
+#### Dämmung anbringen, dann außen auf zwei Seiten OSB drauf (an der kurzen Seite wieder großes OSB-Puzzle, um keine neuen Platten mehr kaufen zu müssen)
 
 ![](063.jpg)
 
-![](064.jpg)
-
-#### Ganz wichtig: nochmal alle Lattenpositionen ausmessen und notieren, um in späteren Arbeitsschritten zu wissen, wo man in ordentlich Material schrauben kann:
+#### Ganz wichtig: vorher alle Lattenpositionen ausmessen und notieren, um in späteren Arbeitsschritten zu wissen, wo man ordentlich tief in Material schrauben kann:
 
 ![](065.jpg)
 
-#### Dach wird mit Membran dicht gemacht, Rest der Hütte folgt (der lange Poolkescher war praktisch, um das Klebeband übers Dach zu rollen und später anzudrücken)
+#### Dach wird mit Membran dicht gemacht, Rest der Hütte folgt (der lange Poolkescher war praktisch, um das Klebeband über das Dach zu bekommen und später anzudrücken)
 
 ![](066.jpg)
 
+![](067.jpg)
+
 ![](068.jpg)
 
-#### Nun endlich Verschalung anbringen, Setups mit Anschlägen gebaut, um nicht jedesmal für Abschnitte und Bohrlöcher messen zu müssen:
+#### Nun endlich Verschalung anbringen, Setups mit Anschlägen gebaut, um nicht jedesmal für ablängen und bohren messen zu müssen:
 
 ![](069.jpg)
 
@@ -163,7 +163,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](072.jpg)
 
-#### Bei dieser Außenwand geht es nicht weiter, da mangels OSB unter der Membran nur in die vertikalen Latten geschraubt werden kann und dafür mindestens 22cm hohe Bretter nötig sind, die wir nicht haben:
+#### Bei dieser Außenwand geht es nicht weiter, da mangels OSB unter der Membran nur in die vertikalen Latten geschraubt werden kann und bei dem 13°-Winkel dafür ganz oben zwei mindestens 22cm hohe Bretter nötig wären, die wir nicht haben:
 
 ![](075.jpg)
 
