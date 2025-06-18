@@ -68,7 +68,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](035.jpg)
 
-#### Schnelles Nebenprojekt: Aus den Schalungsbrettern und [den Resten vom Rampenrundholz](https://github.com/ThomasKaiser/Basteln/blob/main/media/Rampe/README.md#rundholz-peu-à-peu-abrunden-und-ablängen) zwei Kästen zur Aufhängung von Schraubzwingen bauen, die an die Wand gehängt als auch bequem herumgetragen werden können:
+#### Schnelles Nebenprojekt: Aus den Schalungsbrettern und [den Resten vom Rampenrundholz](https://github.com/ThomasKaiser/Basteln/blob/main/media/Rampe/README.md#rundholz-peu-à-peu-abrunden-und-ablängen) zwei Kästen zur Aufhängung von Schraubzwingen bauen, die an die Wand gehängt oder bequem herumgetragen werden können:
 
 ![](036.jpg)
 
@@ -177,7 +177,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](080.jpg)
 
-#### Mit Anbruch der Dunkelheit ist das Dach fertig, zwei Stunden später dann auch die Tür gesetzt:
+#### Mit Anbruch der Dunkelheit ist das Dach fertig, später dann auch die Tür gesetzt:
 
 ![](082.jpg)
 
