@@ -1,6 +1,6 @@
 # Aufbewahrung von Gewindestangen & Co.
 
-Idee: Um Gewindestangen/Latten/Leisten platzsparender verstauen zu können, eine Art "Einlage" fürs Schwerlastregal bauen mit 14 schmalen und 8 breiteren Fächern. Ursprünglich doppelstäckig geplant und nur verleimt nach Realitätsabgleich auf einstöckig reduziert, weil das nie im Leben verleimbar gewesen wäre:
+Idee: Um Gewindestangen/Latten/Leisten platzsparender verstauen zu können, eine Art "Einlage" fürs Schwerlastregal bauen mit 14 schmalen und 8 breiteren Fächern. Ursprünglich nur verleimt und doppelstöckig geplant nach Realitätsabgleich auf einstöckig reduziert, weil das nie im Leben verleimbar gewesen wäre, also nur 11 Fächer dafür aber höher:
 
 ![](017.jpg)
 
@@ -40,7 +40,7 @@ Material (9mm HPL-Platten und 6mm Sperrholzreste) wie üblich für lau von [Trei
 
 ![](012.jpg)
 
-#### Die letzten sechs mittleren Trenner können sauber in den Nuten positioniert und am Stück verleimt werden:
+#### Die letzten sechs mittleren Trenner können allesamt sauber (gerade) in den Nuten positioniert und am Stück verleimt werden:
 
 ![](014.jpg)
 
@@ -48,7 +48,7 @@ Material (9mm HPL-Platten und 6mm Sperrholzreste) wie üblich für lau von [Trei
 
 ![](015.jpg)
 
-#### Deckel drauf, je Trenner drei Nägelchen reinschießen und fertig. Den Rest erledigt eh die Schwerkraft, da Werkzeugkoffer drauf kommen:
+#### Deckel wieder drauf, je Trenner drei Nägelchen reinschießen und fertig. Den Rest erledigt eh die Schwerkraft, da Werkzeugkoffer drauf kommen:
 
 ![](016.jpg)
 

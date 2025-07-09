@@ -44,7 +44,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](017.jpg)
 
-#### Lehm anfeuchten, wieder auffüllen, verdichten und dann mit vorher ausgestochener Grasnarbe soweit möglich bedecken:
+#### Lehm anfeuchten, wieder auffüllen, verdichten und dann mit vorher ausgestochener Grasnarbe soweit möglich bedecken für Regenablauf am Häuschen vorbei:
 
 ![](020.jpg)
 
@@ -167,7 +167,7 @@ Aufgabenstellung: _nicht_ schallgedämmtes, altes und nahezu verrottetes Poolhä
 
 ![](075.jpg)
 
-#### Drei Wochen lang die Torffläche gehegt und gepflegt, damit so viel Wurzelwerk wie möglich entsteht, macht der Hund des Pool-Manns die Hälfte platt weil er den angenehmsten Platz bei 35°C im Schatten gefunden hat :)
+#### Drei Wochen lang die Torffläche gehegt und gepflegt, damit so viel Wurzelwerk wie möglich entsteht, und nun macht der Hund des Pool-Manns die Hälfte platt weil er den angenehmsten Platz bei 35°C im Schatten gefunden hat :)
 
 ![](076.jpg)
 
