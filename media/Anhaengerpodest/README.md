@@ -101,6 +101,6 @@ Holz für lau von [Treibgut (die retten tonnenweise Material, und was sie nicht 
 
 #### Lernerfolge:
 
-  * Zumindest die 1. Iteration (A1) der Parkside Akku-Tauchsäge PPTSA 20-Li kann trotz beworbener Schnittwinkel von 1°-47° keine 45° (irgendwo bei 44,x° ist Schluß) also in Zukunft evtl. [Vorrichtung für perfekte Gehrung bauen](https://www.youtube.com/watch?v=4WEJXS8R0Jo)
-  * Wenn Löcher für Dübel gebohrt werden, Bohrlöcher akribisch aussaugen und nicht nur ausklopfen
+  * Zumindest die 1. Iteration (A1) der Parkside Akku-Tauchsäge PPTSA 20-Li kann trotz beworbener Schnittwinkel von 1°-47° keine 45° (irgendwo bei 44,x° ist Schluß) also  [Vorrichtung für perfekte Gehrungen bauen](../Gehrungsschiene/README.md)
+  * Wenn Löcher für Holzdübel gebohrt werden, Bohrlöcher akribisch aussaugen und nicht nur ausklopfen
   * Dunkle Lasur draufklatschen, um Fehler zu vertuschen, kann am Ende scheizer ausschauen als helles Holz, dem man Arbeitsschritte ansieht

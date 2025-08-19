@@ -26,11 +26,11 @@ Aufgabenstellung: In Ermangelung einer Kappsäge die [Kappschiene KS450 von Yout
 
 ![](016.jpg)
 
-#### Nun 4 Löcher bohren, 4 Gewinde in Alu/Holz schneiden und olle Schrauben aus altem Fahrrad reindrehen für sicheren Halt:
+#### Nun 4 Löcher bohren, 4 Gewinde in Metall/Holz schneiden und olle Schrauben aus altem Fahrrad reindrehen für sicheren Halt:
 
 ![](003.jpg)
 
-#### Zweiter Fehler beim 2K-Zusammenkleben: keine Hammerkopfschraube in oberem Loch mehr anzubringen. Jetzt 10er Loch durchs Alu bohren, damit am Ende zwei Hammerkopfschrauben Schiene und Kapptool verbinden können (eine von oben, eine von unten):
+#### Zweiter Fehler beim 2K-Zusammenkleben: keine Hammerkopfschraube in oberem Loch mehr anzubringen. Jetzt 10er Loch durchs Metall bohren, damit zwei Hammerkopfschrauben Schiene und Kapptool verbinden können (eine von oben, eine von unten):
 
 ![](004.jpg)
 
@@ -62,7 +62,7 @@ Aufgabenstellung: In Ermangelung einer Kappsäge die [Kappschiene KS450 von Yout
 
 ![](006.jpg)
 
-#### Nun erster Test mit 40V-Handkreissäge (die ist schmäler als meine Tauchsägen und hat mehr "Bodenfreiheit", d.h. passt auf die Konstruktion) an 60mm starkem Balken:
+#### Nun erster Test mit 40V-Handkreissäge (die ist schmaler als meine Tauchsägen und hat mehr "Bodenfreiheit", d.h. passt auf die Konstruktion) an 60mm starkem Balken:
 
 ![](012.jpg)
 
@@ -94,7 +94,7 @@ Aufgabenstellung: In Ermangelung einer Kappsäge die [Kappschiene KS450 von Yout
 
 ![](022.jpg)
 
-#### 20mm-Hammerkopfschraube muß gekürzt werden, damit Tauchsäge genug "Bodenfreiheit" hat. Mit 6,5er Bohrer in Holzabschnitt vorbohren, 8mm-Gewinde reinschneiden, Hammerkopfschraube reindrehen und bequem an der Klapptschiene mit Trennscheibe ablängen:
+#### 20mm-Hammerkopfschraube muß gekürzt werden, damit Tauchsäge genug "Bodenfreiheit" hat. Mit 6,5er Bohrer in Holzabschnitt vorbohren, 8mm-Gewinde reinschneiden, Hammerkopfschraube reindrehen und bequem an der Klappschiene mit Trennscheibe ablängen:
 
 ![](023.jpg)
 
@@ -106,13 +106,13 @@ Aufgabenstellung: In Ermangelung einer Kappsäge die [Kappschiene KS450 von Yout
 
 ![](025.jpg)
 
-#### V1.1 und V2 im Vergleich. Der Griff der 1.0-Version ist schmäler an die V2 gewandert und die V1.1 versucht mit vorgelagertem Griff den dummen Fehler der Verbindung Anschlag und Griffauflage zu kaschieren:
+#### V1.1 und V2 im Vergleich. Der Griff der 1.0-Version ist schmäler an die V2 gewandert und die V1.1 im Hintergrund versucht mit vorgelagertem Griff den dummen Fehler der Verbindung Anschlag und Griffauflage zu kompensieren:
 
 ![](027.jpg)
 
 #### Lernerfolge:
 
-  * Vorher Dimensionen prüfen statt blind drauf zu vertrauen, dass die Säge schon nicht über die Zubehör-T-Nut ragt
-  * da schon wieder Referenzkante vergeigt Markierungssystem adaptieren, um solchen Quatsch in Zukunft zu vermeiden
-  * Bedingt durch die falsche Griffposition der 1.0 fühlt sich das Werkeln mit der Handkreissäge unpräzise an, weil man leicht verrutscht, wenn man die Säge an der Schiene entlang nach vorne schiebt. Mit Tauchsäge sicherlich weniger ein Problem, da man eben ins Werkstück eintauchen kann.
-  * Wenn man mit nagelneuen Führungsschienen Nuten abtrennt wie oben, dann empfiehlt es sich, die ganze Schiene sauber abzukleben, da die eingeklebten Gummi-Gleistreifen sonst die Aluspäne kraft Kleber an den Rändern konservieren. Das Problem hat man mit bereits genutzten Schienen nicht, da dort durch Sägespäne & Co. der ganze Kleberüberstand neutralisiert wurde
+  * Vorher Dimensionen prüfen statt zu erwarten, dass die Säge schon nicht über die Zubehör-T-Nut ragt
+  * da schon wieder Referenzkante vergeigt Markierungssystem etablieren, um solchen Quatsch in Zukunft zu vermeiden
+  * Bedingt durch die falsche Griffposition der 1.0 fühlt sich das Werkeln mit der Handkreissäge unpräzise an, weil man leicht verrutscht, wenn man die Säge an der Schiene entlang nach vorne schiebt. Mit Tauchsäge weniger ein Problem, da man ins Werkstück eintauchen kann.
+  * Wenn man mit nagelneuen Führungsschienen Nuten abtrennt wie oben, dann empfiehlt es sich, die ganze Schiene sauber abzukleben, da die eingeklebten Gummi-Gleitstreifen sonst die Aluspäne kraft Kleber an den Rändern konservieren. Das Problem hat man mit bereits genutzten Schienen nicht, da dort durch Sägespäne & Co. der ganze Kleberüberstand neutralisiert wurde

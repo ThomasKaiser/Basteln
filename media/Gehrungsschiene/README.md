@@ -1,11 +1,11 @@
 # Gehrungsschiene
 
-Idee bei [Dominik Ricker geklaut](https://www.youtube.com/watch?v=4WEJXS8R0Jo). Er bemängelt bei seiner Festool-Tauchsäge Spiel, wenn sie auf 45° gestellt wird, meine Parkside-A1-Tauchsägen-Version scheitert schon an den 45° per se (kann nur 44,x° und die B2-Version, die bis 47° geht, ist grad eingeschickt zur Reparatur bei Grizzly Tools)
+Idee bei [Dominik Ricker geklaut](https://www.youtube.com/watch?v=4WEJXS8R0Jo). Er bemängelt bei seiner Festool-Tauchsäge Spiel, wenn sie auf 45° gestellt wird. Meine Parkside-A1-Tauchsägen-Version scheitert schon an den 45° per se (kann nur 44,x° und die B2-Version, die bis 47° geht, ist grad eingeschickt zur Reparatur bei Grizzly Tools)
 
 Teileliste:
 
   * Holz für lau von [Treibgut](http://treibgut-lager.de) (drum auch so schick bunt)
-  * paar Schrauben
+  * paar Holzschrauben
   * [3 x 30mm-Hammerkopfschrauben](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099579130694&sku_id=17592460585782)
   * 80cm Führungsschiene [von Temu (damals 18,50)](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099647544073)
 

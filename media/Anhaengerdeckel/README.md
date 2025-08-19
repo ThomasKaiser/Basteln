@@ -12,7 +12,7 @@ Grundidee: Aus Regal- und Schrankrückwandresten und Aluprofilen einen Korpus ba
 
 ![](001.jpg)
 
-#### Schrankrückwandreste als Seitenteile auch (wobei dieses Brett als Teil der Rückwand endete)
+#### Schrankrückwandreste als Seitenteile passen auch (wobei dieses Brett als Teil der Rückwand endete)
 
 ![](002.jpg)
 
