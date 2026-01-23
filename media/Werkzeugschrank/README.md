@@ -40,7 +40,7 @@ Den [Anhängerdeckel](https://github.com/ThomasKaiser/Basteln/blob/main/media/An
 
 ![](009.jpg)
 
-#### Vorerst fertig, außen "Werkzeugwand", innen und dahinter Stauraum:
+#### Vorerst fertig, außen "Werkzeugwand", innen, dahinter und oben drauf Stauraum:
 
 ![](012.jpg)
 

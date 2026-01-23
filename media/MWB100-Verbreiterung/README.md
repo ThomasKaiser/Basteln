@@ -1,6 +1,6 @@
 # MWB100-Verbreiterung
 
-Da ich ungern direkt in die Werkbank reinsäge und rechts neben der Klapptschiene mehr Platz brauche, um an der Schiene zu fräsen, kam die Idee, das Ding zu verbreitern. Aber so, dass der Anbau auch abgenommen und trotzdem perfekt justiert werden kann, um eine völlig plane optionale Verlängerung bereitzustellen.
+Da ich ungern direkt in die Werkbank reinsäge und rechts neben der Klappschiene mehr Platz brauche, um an der Schiene zu fräsen, kam die Idee, das Ding zu verbreitern. Aber so, dass der Anbau auch demontiert und trotzdem perfekt justiert werden kann, um eine völlig plane optionale Verlängerung bereitzustellen.
 
 Sieht am Ende dann so aus mit T-Nuten ringsum, um die Klappschiene oder anderes Zeugs zu befestigen und wechselbarem Opferstreifen in der Mitte, in den ca. 12mm tief hineingesägt werden kann:
 
@@ -100,6 +100,6 @@ Sieht am Ende dann so aus mit T-Nuten ringsum, um die Klappschiene oder anderes 
 
 ![](025.jpg)
 
-#### Erste Aufgabe des neuen Setups: exakt identische 12x12cm-Quadrate sägen für den Bohrtisch:
+#### Erste Aufgabe des neuen Setups: exakt identische 12x12cm-Quadrate sägen für den [Bohrtisch](../Bohrtisch/README.md):
 
 ![](027.jpg)

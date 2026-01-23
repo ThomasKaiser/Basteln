@@ -98,7 +98,7 @@ Material Kellerfunde und die 12mm Sperrholzbrettchen von [Treibgut](http://treib
 
 ![](029.jpg)
 
-#### Mit Bankhaken exakt ausrichten, dann an beiden Seiten mit den Sternkopfschrauben an die T-Nuten des Tisches knallen:
+#### Mit Bankhaken exakt ausrichten, dann an beiden Seiten mit Sternkopfmuttern an die T-Nuten des Tisches knallen:
 
 ![](030.jpg)
 
