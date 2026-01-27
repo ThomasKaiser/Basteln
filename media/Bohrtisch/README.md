@@ -36,11 +36,11 @@ Fertiger Tisch im Einsatz: 10mm breite Löcher und 24mm breite Vertiefungen für
 
 ![](010.jpg)
 
-#### T-Nut-Reste mit Trennschleifer ablängen:
+#### Dann mit Trennschleifer ablängen:
 
 ![](013.jpg)
 
-#### Für den extrem flachen Zaun (der originale an der Säule befestigte Bosch-Niederhalter soll weiterhin funktionieren und tut das auch ab 15mm Materialstärke) Langlöcher in Laminatrest fräsen:
+#### Für den flachen Zaun (der originale an der Säule befestigte Bosch-Niederhalter soll weiterhin funktionieren und tut das auch ab 15mm Materialstärke) Langlöcher in Laminatrest fräsen:
 
 ![](011.jpg)
 
@@ -84,11 +84,11 @@ Fertiger Tisch im Einsatz: 10mm breite Löcher und 24mm breite Vertiefungen für
 
 ![](022.jpg)
 
-#### Mit Stechbeitel noch die Ecken quadratisch gemacht:
+#### Mit Stechbeitel noch die Ecken nachgearbeitet:
 
 ![](023.jpg)
 
-#### Jede der 9mm-Einlagen kann viermal gedreht werden... also theoretisch 120 verschiedene Bohrradien damit abzubilden.
+#### Jede der 9mm-Einlagen kann viermal gedreht werden... also theoretisch 120 verschiedene Bohrerdurchmesser damit abzubilden.
 
 ![](024.jpg)
 
@@ -105,3 +105,12 @@ Der Tisch ist erstmal eine große Verbesserung im Vergleich zu dem mitgelieferte
 #### 
 
 ![](003.jpg)
+
+#### Update 1: Adapterbrettchen für Maschinenschraubstock gebaut:
+
+![](027.jpg)
+
+#### Der Schraubstock ist auf einem Brett montiert, um ihn vertikal oder horizontal mit der Winkelschleifer-Vorrichtung zu benutzen. Also vier 6,5mm-Löcher da rein schrauben, die dann in 6er Holzdübel "einrasten" wenn nötig:
+
+![](028.jpg)
+
