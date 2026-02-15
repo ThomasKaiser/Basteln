@@ -60,7 +60,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](020.jpg)
 
-#### Da der Massivholzlaie (ich) sich in der Zwischenzeit aufgeschlaut hat, wie Holz abhängig von der Luftfeuchte arbeiten kann, nun Begrenzungsversuche:
+#### Da der Massivholzlaie (ich) sich in der Zwischenzeit aufgeschlaut hat, wie sich Holz abhängig von der Luftfeuchte ausdehnen kann, nun Begrenzungsversuche:
 
 ![](034.jpg)
 
@@ -102,11 +102,11 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](024.jpg)
 
-#### Mit Parallelanschlag die Vertiefungen für die Tischbeine fräsen (Mega-Sauerei):
+#### Mit Parallelanschlag die Vertiefungen für die Tischbeine fräsen (Mega-Sauerei trotz Absaugung):
 
 ![](026.jpg)
 
-#### Oops, Zyklon das erste mal randvoll:
+#### Oops, Zyklon trotzdem das erste mal randvoll:
 
 ![](025.jpg)
 
@@ -158,7 +158,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](043.jpg)
 
-#### Einschlagmutter einpressen:
+#### Einschlagmuttern einpressen:
 
 ![](044.jpg)
 
@@ -166,13 +166,13 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](046.jpg)
 
-#### Tischbeine mit Flachdübeln/Leim verbinden:
+#### Seitenteile fertigen: Tischbeine mit Flachdübeln/Leim verbinden:
 
 ![](047.jpg)
 
 ![](048.jpg)
 
-#### Ex-Flaschenkorken mit 16mm-Fräser aufbohren, um die häßlichen Einschlagmuttern zu verdecken:
+#### Adapterplatte für Maschinenschraubstock bauen, dann Ex-Flaschenkorken mit 16mm-Fräser aufbohren, um die häßlichen Einschlagmuttern zu verdecken:
 
 ![](050.jpg)
 
@@ -184,7 +184,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](053.jpg)
 
-#### Mit Oberfräse in Schienenadapter an Klappschiene 8mm-Löcher für Holzdübel "bohren":
+#### Mit Oberfräse in Schienenadapter an Klappschiene je verleimter Leiste ein 8mm-Loch für Holzdübel "bohren":
 
 ![](054.jpg)
 
@@ -242,7 +242,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](068.jpg)
 
-#### ...und mit vernünftigen Zwingen alles verleimen:
+#### ...und mit vernünftigen Zwingen Seitenteile und Rückteil verleimen:
 
 ![](069.jpg)
 
@@ -254,7 +254,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](071.jpg)
 
-#### Die zwei eingeklebten Gewindestangen sind dafür da, das zweite längere Set Tischbeine zu befestigen:
+#### Die zwei eingeklebten Gewindestangen sind dafür da, das zweite längere Set Tischbeine am Tisch selbst zu befestigen:
 
 ![](072.jpg)
 
