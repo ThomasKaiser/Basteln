@@ -106,11 +106,11 @@ Der Tisch ist erstmal eine große Verbesserung im Vergleich zu dem mitgelieferte
 
 ![](003.jpg)
 
-#### Update 1: Adapterbrettchen für Maschinenschraubstock gebaut:
+#### Erstes Ergänzungsprojekt: Adapterbrettchen für Maschinenschraubstock, der mittels Langlöchern, Hammerkopfschrauben und Sternkopfmuttern positioniert werden kann:
 
 ![](027.jpg)
 
-#### Der Schraubstock ist auf einem Brett montiert, um ihn vertikal oder horizontal mit der Winkelschleifer-Vorrichtung zu benutzen. Also vier 6,5mm-Löcher da rein schrauben, die dann in 6er Holzdübel "einrasten" wenn nötig:
+#### Der Schraubstock ist fix auf einem Brett montiert, um ihn vertikal oder horizontal mit einer Winkelschleifer-Vorrichtung zu nutzen. Also dort vier 6,5mm-Löcher rein bohren, die hier dann in 6er Holzdübel gesteckt werden können:
 
 ![](028.jpg)
 
