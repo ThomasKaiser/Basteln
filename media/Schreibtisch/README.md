@@ -28,7 +28,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](006.jpg)
 
-#### Mit Frässchlitten und Planfräser die Oberseiten der zwei Teile plan machen:
+#### Zwischendurch [Frässchlitten](../Fraesschlitten/README.md) gebaut und mit dem samt Planfräser die Oberseiten der zwei Teile plan machen:
 
 ![](007.jpg)
 
