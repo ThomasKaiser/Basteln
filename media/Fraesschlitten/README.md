@@ -56,7 +56,7 @@ Teileliste:
 
 ![](011.jpg)
 
-#### Schlitten-Oberteil komplett verleimen/verschrauben:
+#### Schlitten-Oberteil komplett verleimen:
 
 ![](012.jpg)
 
@@ -64,7 +64,7 @@ Teileliste:
 
 ![](013.jpg)
 
-#### Erster Fehler: Die Löcher für die Rampamuffen sind viel zu weit in der Mitte, so dass am Ende die Oberfräse nicht mehr über die volle Breite geschoben werden kann:
+#### Erster Fehler: Die Löcher für die Rampamuffen sind viel zu weit in der Mitte, so dass die Seitenteile den Handgriffen der Oberfräse in den Weg kämen und so die Fräse nicht mehr über die volle Breite geschoben werden könnte:
 
 ![](014.jpg)
 
@@ -128,4 +128,6 @@ Teileliste:
 
 ![](033.jpg)
 
-Nun endlich stabil genug, um Flächen präzise planzufräsen...
+#### Nun endlich stabil genug, um Flächen präzise planzufräsen...
+
+![](../Schreibtisch/022.jpg)

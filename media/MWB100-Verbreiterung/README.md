@@ -70,7 +70,7 @@ Sieht am Ende dann so aus mit T-Nuten ringsum, um die Klappschiene oder anderes 
 
 ![](016.jpg)
 
-#### Nun noch 3 Reststücke sehr hartes Muliplex zurechtsägen und Aussparungen dafür ausfräsen:
+#### Nun noch 3 Reststücke sehr hartes Multiplex zurechtsägen und Aussparungen dafür ausfräsen:
 
 ![](017.jpg)
 
