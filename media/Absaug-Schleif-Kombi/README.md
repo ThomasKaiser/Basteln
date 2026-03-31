@@ -1,7 +1,7 @@
 
 # Absaug-Schleif-Kombi
 
-Als Nebenprojekt des mobilen Frästisches braucht's auch noch 'ne mobile Absaugung, die umgeklappt als Werkbank-Verlängerung am MWB100 dient und bei Nichtbenutzung darunter verstaut werden kann aber auch ruckzuck mit einem Doppelschleifer bestückt werden kann, der sonst überall im Weg wäre:
+Als Nebenprojekt des zukünftigen mobilen Frästisches braucht's auch noch 'ne mobile Absaugung, die nach unten/innen geschwenkt als Werkbank-Verlängerung am MWB100 dient und bei Nichtbenutzung darunter verschwindet aber auch ruckzuck mit einem Doppelschleifer bestückt werden kann, der sonst überall im Weg wäre:
 
 ![](030.jpg)
 
@@ -17,7 +17,7 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](001.jpg)
 
-#### Passt gerade so, also ein Seiten- und Mittelteil ablängen und aus den Resten die Rückwand machen. Flachdübelpositionen anzeichnen...
+#### Passt gerade so, also aus zwei 140cm langen Platten ein Seiten- und Mittelteil identisch ablängen und aus den Resten die Rückwand zusammenleimen. Flachdübelpositionen anzeichnen...
 
 ![](002.jpg)
 
@@ -49,7 +49,7 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](009.jpg)
 
-#### Nebenprojekt vom Nebenprojekt, da der [schon existente Kreisfräser](../Kreisfraeser/README.md)  nur für kleine Radien taugt, schnell 'nen neuen konventionellen bauen. Erstmal 8,5mm-Löcher in Abschnitt von Hartholzleiste bohren:
+#### Nebenprojekt vom Nebenprojekt, da der [schon existente Kreisfräser](../Kreisfraeser/README.md)  nur für kleine Durchmesser taugt, schnell 'nen neuen konventionellen bauen. Erstmal 8,5mm-Löcher in Abschnitt von Hartholzleiste bohren:
 
 ![](010.jpg)
 
@@ -61,15 +61,15 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](012.jpg)
 
-#### Leiste mit "Bodenplatte" verleimen und Zentrierpin auf einer Seite rund schleifen:
+#### Leiste mit "Bodenplatte" verleimen und Zentrierpin (Abschnitt von 6mm-Aluröhrchen) auf einer Seite rund schleifen:
 
 ![](013.jpg)
 
-#### Zentrierpin unten einkleben, noch zwei Schrauben zur Sicherheit hinein, zwei 8mm-Metallstäbe von irgendeinem Parallelanschlag fixieren (mit 8mm starken Gewindestangen kann man jetzt Durchmesser von ca. 1,90m fräsen)
+#### Zentrierpin unten einkleben, noch zwei Schrauben zur Sicherheit hinein, zwei 8mm-Metallstäbe von irgendeinem Parallelanschlag fixieren (mit meinen 1m langen M8-Gewindestangen könnte man jetzt Durchmesser von ca. 1,90m fräsen)
 
 ![](014.jpg)
 
-#### Und los geht's:
+#### 6mm-Loch exakt in die Mitte gebohrt und los geht's (neues Mini-Projekt demnächst: zerstörungsfreies Setup bauen, bei dem die Bodenplatte mit doppelseitigem Klebeband auf Werkstück befestigt wird und sich der Zentrierpin darin dreht):
 
 ![](015.jpg)
 
@@ -81,7 +81,7 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](017.jpg)
 
-#### Jetzt erst gemerkt, wie dumm die Idee war, ausgerechnet die Klemmteile aus bröseligem Pressspan zu machen:
+#### Jetzt erst gemerkt, wie dumm die Idee war, ausgerechnet die Klemmteile aus bröseligem Pressspan zu machen. Egal, trotzdem Dichtungsband einkleben:
 
 ![](018.jpg)
 
@@ -149,8 +149,12 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](037.jpg)
 
-#### Ergebnis perfekt. Mit wenigen Handgriffen ist der Doppelschleifer positioniert und ratzfatz festgeschraubt:
+#### Ergebnis perfekt. Ruckzuck ist der Doppelschleifer positioniert und ratzfatz festgeschraubt:
 
 ![](039.jpg)
 
-Nächster Schritt ist dann noch, einen Klapptisch an der Seite anzubringen. Warten auf die nötigen Teile...
+#### Noch 'ne Dreifach-Steckdose dran zwengs Bequemlichkeit:
+
+![](040.jpg)
+
+Nächster Schritt ist dann noch, einen Klapptisch an der Seite anzubringen. Warten auf die bestellten Teile...
