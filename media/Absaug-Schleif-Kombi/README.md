@@ -11,7 +11,7 @@ Als Nebenprojekt des zukünftigen mobilen Frästisches braucht's auch noch 'ne m
 
 ![](038.jpg)
 
-Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, die dafür völlig ausreichend sein sollten. Deren Dimensionen bestimmen grob die Maße: 35cm tief wird der Korpus und die Rückwand 70cm breit (zwei Plattenabschnitte mit Flachdübeln verleimen). Höhe so, dass das ganze Konstrukt noch unter die Werkbank passt aber sich die Absaugung noch rausschwenken läßt. Restliche Maße ergaben sich dann einfach so.
+Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, die dafür völlig ausreichen. Deren Dimensionen bestimmen grob die Maße: 35cm tief wird der Korpus und die Rückwand 70cm breit (zwei Plattenabschnitte mit Flachdübeln verleimen). Höhe so, dass das ganze Konstrukt noch unter die Werkbank passt aber sich die Absaugung noch rausschwenken läßt. Restliche Maße ergaben sich dann einfach so.
 
 #### Erstmal prüfen, ob die Zielhöhe erreicht werden kann, wenn man das Ausschwenken berücksichtigt:
 
@@ -25,15 +25,15 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](003.jpg)
 
-#### Dort wo das Scharnier für 'nen Besenstiehlabschnitt hin soll, wurden Seiten- und Mittelteil durch verleimte Plattenabschnitte verstärkt. Jetzt 30mm-Scharnierloch bohren:
+#### Während Leim abbindet einen 180° schwenkbaren Deckel samt Aufhängung bauen. Dort wo die Aufnahme für 'nen Besenstielabschnitt als Achse hin soll, wurden Seiten- und Mittelteil durch verleimte Plattenabschnitte verstärkt. Jetzt 30mm-Löcher bohren, in denen sich die Achse später frei drehen kann:
 
 ![](004.jpg)
 
-#### Setup bauen, mit dem präzise und wiederholgenau Leistenabschnitte auf 29,5cm gebracht werden können (Besenstiehldurchmesser)
+#### Setup bauen, mit dem präzise und wiederholgenau Leistenabschnitte auf 29,5cm gebracht werden können (Besenstieldurchmesser)
 
 ![](005.jpg)
 
-#### In die Latten 30mm-Löcher mittig bohren für den Besenstiehl:
+#### In die Latten 30mm-Löcher mittig bohren, um den Besenstiel zu umfassen:
 
 ![](006.jpg)
 
@@ -41,7 +41,7 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](007.jpg)
 
-#### Dann Besenstiehl zentrieren und alle Latten und Unterseite verleimen:
+#### Dann Besenstiel zentrieren und alle Latten und Unterseite verleimen:
 
 ![](008.jpg)
 
@@ -49,7 +49,7 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](009.jpg)
 
-#### Nebenprojekt vom Nebenprojekt, da der [schon existente Kreisfräser](../Kreisfraeser/README.md)  nur für kleine Durchmesser taugt, schnell 'nen neuen konventionellen bauen. Erstmal 8,5mm-Löcher in Abschnitt von Hartholzleiste bohren:
+#### Nebenprojekt vom Nebenprojekt, da der [schon existente Kreisfräser](../Kreisfraeser/README.md) nur für kleine Durchmesser taugt, schnell 'nen neuen konventionellen bauen. Erstmal 8,5mm-Löcher in Abschnitt von Hartholzleiste bohren:
 
 ![](010.jpg)
 
@@ -157,4 +157,30 @@ Es waren noch vier 16-17mm starke Pressspanplatten im Format 140x35cm im Weg, di
 
 ![](040.jpg)
 
-Nächster Schritt ist dann noch, einen Klapptisch an der Seite anzubringen. Warten auf die bestellten Teile...
+#### Nun fehlt nur noch ein seitlicher Klapptisch, um die Arbeitsfläche zu vergrößern. Maß nehmen mit zwei Klappscharnieren und Teleskopbein. Und wo nötig Material verstärken:
+
+![](043.jpg)
+
+#### Klapptisch formatieren:
+
+![](044.jpg)
+
+#### Bohrlöcher anzeichnen während Tisch plan festgeklemmt wurde:
+
+![](045.jpg)
+
+#### Bohren, verschrauben, fertig...
+
+![](046.jpg)
+
+#### Da der Tisch zu niedrig für stehendes Arbeiten ist, einen [Klapphocker](../Klapphocker/README.md) und Befestigungen dafür bauen:
+
+![](041.jpg)
+
+#### Klapphocker platzsparend verräumt:
+
+![](042.jpg)
+
+#### Das Ding samt Klapphocker und Klapptisch passt immer noch unter die Werkbank:
+
+![](047.jpg)

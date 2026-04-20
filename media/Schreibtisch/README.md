@@ -114,7 +114,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](027.jpg)
 
-#### Die Wandstärken sind unterschiedlich, da außen jeweils zwei M8-Einschlagmuttern rein müssen für die Höhenverstellung:
+#### Die Wandstärken sind unterschiedlich, da außen jeweils zwei M8-Einschlagmuffen rein müssen für die Höhenverstellung:
 
 ![](028.jpg)
 
@@ -150,7 +150,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](041.jpg)
 
-#### Das 6mm-Loch für den Kreisfräser auf 10mm erweitern, damit Einschlagmutter paßt:
+#### Das 6mm-Loch für den Kreisfräser auf 10mm erweitern, damit Einschlagmuffe paßt:
 
 ![](042.jpg)
 
@@ -158,7 +158,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](043.jpg)
 
-#### Einschlagmuttern einpressen:
+#### Einschlagmuffen einpressen:
 
 ![](044.jpg)
 
@@ -172,7 +172,7 @@ Anforderung seitens Tochter: 100x65 cm, damit es in die Ecke neben Heizung/Fenst
 
 ![](048.jpg)
 
-#### Adapterplatte für Maschinenschraubstock bauen, dann Ex-Flaschenkorken mit 16mm-Fräser aufbohren, um die häßlichen Einschlagmuttern zu verdecken:
+#### Adapterplatte für Maschinenschraubstock bauen, dann Ex-Flaschenkorken mit 16mm-Fräser aufbohren, um die häßlichen Einschlagmuffen zu verdecken:
 
 ![](050.jpg)
 
