@@ -18,7 +18,7 @@ Die blaue Banane lag mal bei [Treibgut](http://treibgut-lager.de) herum und ist 
 
 ![](003.jpg)
 
-#### ...und direkt danach verwerfen und relativ ähnlichen Winkel von Treibgut-Abschnitt vorgeben lassen und mit Aluprofil fixieren. Den exakt identischen Winkel braucht's ja auch fürs Bohren, etc. pp.
+#### ...und direkt danach verwerfen und relativ ähnlichen Winkel von Treibgut-Abschnitt vorgeben lassen und mit Aluprofil für Tauchsäge fixieren. Den exakt identischen Winkel braucht's ja auch fürs Bohren, etc. pp.
 
 ![](004.jpg)
 
@@ -26,13 +26,13 @@ Die blaue Banane lag mal bei [Treibgut](http://treibgut-lager.de) herum und ist 
 
 ![](005.jpg)
 
-#### Zwischenzeitlich die vier mit M5-Einschlagmuffen versehenen Löcher in der Banane auf Klappmechanismus übertragen, um zu wissen, wo die Achsen (8mm-Metallstangen von irgendeinem Parallelanschlag) hinkönnen:
-
-![](006.jpg)
-
 #### Die zwei vorderen Beine mit Winkelabschnitt vertikal ablängen:
 
 ![](008.jpg)
+
+#### Dann die vier mit M5-Einschlagmuffen versehenen Löcher in der Banane auf Klappmechanismus übertragen, um zu wissen, wo exakt die Achsen (8mm-Metallstangen von irgendeinem Parallelanschlag) hinkönnen:
+
+![](006.jpg)
 
 #### Simples Setup, um die drei Beine reihum rund zu schleifen:
 
@@ -70,7 +70,7 @@ Die blaue Banane lag mal bei [Treibgut](http://treibgut-lager.de) herum und ist 
 
 ![](017.jpg)
 
-#### Passgenauigkeit mit Zwinge prüfen:
+#### Rundung an einer Seite schleifen und Passgenauigkeit mit Zwinge prüfen:
 
 ![](018.jpg)
 
@@ -108,6 +108,6 @@ Die blaue Banane lag mal bei [Treibgut](http://treibgut-lager.de) herum und ist 
 
 ![](026.jpg)
 
-#### Alles stabil und bequem. Die blaue Banane wurde zum Hocker, der fortan zusammengeklappt an der [Absaug-Schleif-Kombi](../Absaug-Schleif-Kombi/README.md) wohnt.
+#### Alles stabil und bequem. Die blaue Banane wurde zum Hocker, der fortan zusammengeklappt an der [Absaug-Schleif-Kombi](../Absaug-Schleif-Kombi/README.md#klapphocker-platzsparend-verräumt) wohnt.
 
 ![](029.jpg)
