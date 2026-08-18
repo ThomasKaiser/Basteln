@@ -1,12 +1,12 @@
 # Deckelknauf
 
-Den Glasdeckel hab ich von meiner Mutter "geerbt", die dazugehörige Pfanne ist aber schon vor Jahrzehnten verstorben. Heute gemerkt, dass der Knauf leichtes Spiel hat. Dann beim Anziehen das Plastikgewinde finalmente rausgebrochen. Da die M5-Schraube auch ordentlich verrostet ist, kein 2K-Reparaturversuch sondern Holzersatz.
+Den Glasdeckel hab ich von meiner Mutter "geerbt", die ursprünglich dazugehörige Pfanne ist aber schon vor Jahrzehnten verstorben. Heute gemerkt, dass der Knauf leichtes Spiel hat. Dann beim Anziehen das Plastikgewinde finalmente rausgebrochen. Da die M5-Schraube auch ordentlich verrostet ist, kein 2K-Reparaturversuch sondern Holz statt Plastik!
 
 #### Ausgangssituation:
 
 ![](001.jpg)
 
-#### Zwei Ex-Flaschenkorken vom Kork getrennt und in die breitere ein halbwegs passendes Rundholz eingeleimt:
+#### Zwei Ex-Flaschenkorken vom Kork getrennt und in den breiteren ein knapp schmäleres Rundholz eingeleimt:
 
 ![](002.jpg)
 
@@ -46,6 +46,13 @@ Den Glasdeckel hab ich von meiner Mutter "geerbt", die dazugehörige Pfanne ist 
 
 ![](011.jpg)
 
-#### Sollte die nächsten Jahrzehnte wieder halten falls der Expressleim bisschen Hitze verträgt...
+#### Noch umentschieden und dunkel lasiert:
 
-![](012.jpg)
+![](013.jpg)
+
+![](014.jpg)
+
+#### Und zur Sicherheit innen acht Schrauben rein:
+
+![](015.jpg)
+
